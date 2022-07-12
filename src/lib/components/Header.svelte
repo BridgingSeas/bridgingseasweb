@@ -1,4 +1,4 @@
-<div class="fixed top-0 w-full bg-[#ffc8b6] py-4 z-50">
+<div class="sticky top-0 w-full bg-[#ffc8b6] py-4 z-50 drop-shadow-xl">
 	<div class="container mx-auto flex items-center">
 		<a href="/"
 			><img
