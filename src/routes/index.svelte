@@ -15,7 +15,7 @@
 
 <Hero />
 
-<div class="container mb-20 grid grid-cols-1 xl:grid-cols-2 gap-x-8 pt-20">
+<div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
 		<p class="font-serif text-4xl font-bold">Connect with your roots</p>
@@ -38,7 +38,7 @@
 	</div>
 </div>
 
-<div class="container mb-20 grid grid-cols-1 xl:grid-cols-2 gap-x-8">
+<div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
 		<img alt="sponge" src={sponge} />
