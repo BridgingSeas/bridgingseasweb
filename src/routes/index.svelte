@@ -1,126 +1,84 @@
+<script>
+	import Hero from '$lib/components/Hero.svelte';
+	import fortnite from '$lib/fortnite.jpg';
+	import fallguys from '$lib/fallguys.jpg';
 
-<div class="header">
-    <a href="" class="logo"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=224,fit=crop/m2Wgwzkj3GFqQPR0/Bridging-Seas-mePe9k6belSbvxM5.png"></a>
-    <div class="header-right">
-        <a href="members">Members</a>
-        <a href="partners">Our Partners</a>
-        <a href="getinvolved">Get Involved</a>
-        <a href="contact">Contact Us</a>
-        
-    </div>
+	import jhope from '$lib/bts/jhope.jpg';
+	import jimin from '$lib/bts/jimin.jpg';
+	import jin from '$lib/bts/jin.jpg';
+	import jungkook from '$lib/bts/jungkook.jpg';
+	import rm from '$lib/bts/rm.jpg';
+	import suga from '$lib/bts/suga.jpg';
+	import v from '$lib/bts/v.jpg';
+</script>
+
+<Hero />
+
+<div class="container mb-20 grid grid-cols-2 gap-x-8">
+	<div>
+		<!-- left -->
+		<p class="font-serif text-4xl font-bold">Connect with your roots</p>
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem neque, corrupti,
+			explicabo, exercitationem sunt ducimus veritatis officiis dignissimos at molestias reiciendis
+			nisi adipisci assumenda voluptate saepe laboriosam dicta quis id possimus provident tempore
+			dolor. Eos, exercitationem repudiandae ad sequi reprehenderit temporibus id ex repellat nulla
+			dolores minima maiores deleniti natus, excepturi dignissimos optio laborum vero veritatis
+			ullam laudantium. Numquam omnis suscipit quia ipsa. Ut consectetur sint laudantium, omnis
+			quasi quam rerum assumenda aliquam quas. Ad exercitationem ea magni nesciunt sunt, debitis
+			tenetur reiciendis distinctio dolorum, beatae minima veniam, excepturi maiores quae
+			perspiciatis voluptas. Perspiciatis a rerum illum tenetur in!
+		</p>
+	</div>
+
+	<div>
+		<!-- right -->
+		<img alt="fortnite" src={fortnite} />
+	</div>
 </div>
 
-<body>
-    <div class="banner">
-        <title>
-            penis
-        </title>
-    </div>
-</body>
+<div class="container mb-20 grid grid-cols-2 gap-x-8">
+	<div>
+		<!-- left -->
+		<img alt="fallguys" src={fallguys} />
+	</div>
 
+	<div>
+		<!-- right -->
+		<p class="font-serif text-4xl font-bold">
+			The messages seen <span class="underline">'round</span> the world
+		</p>
 
-
-<div class="footer">
-    <div class="footer-left">
-        <a href="https://www.instagram.com/bridgingseas/"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-256.png" width="50" height="50"></a>
-        <a href="https://www.facebook.com/bridgingseas/"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-256.png" width="50" height="50"></a>
-        <a href="https://twitter.com/BridgingSeas"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-256.png" width="50" height="50"></a>
-        <a href="https://www.tiktok.com/@bridgingseas?"><img src="https://cdn.discordapp.com/attachments/609426945603797003/995796880351051817/IMG_1641.png" width="50" height="50"></a>
-    </div>
-
-    <div class="footer-right">
-        <h1>Contact Us</h1>
-        <p>bridgingseasnyc@gmail.com</p>
-
-    </div>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem neque, corrupti,
+			explicabo, exercitationem sunt ducimus veritatis officiis dignissimos at molestias reiciendis
+			nisi adipisci assumenda voluptate saepe laboriosam dicta quis id possimus provident tempore
+			dolor. Eos, exercitationem repudiandae ad sequi reprehenderit temporibus id ex repellat nulla
+			dolores minima maiores deleniti natus, excepturi dignissimos optio laborum vero veritatis
+			ullam laudantium. Numquam omnis suscipit quia ipsa. Ut consectetur sint laudantium, omnis
+			quasi quam rerum assumenda aliquam quas. Ad exercitationem ea magni nesciunt sunt, debitis
+			tenetur reiciendis distinctio dolorum, beatae minima veniam, excepturi maiores quae
+			perspiciatis voluptas. Perspiciatis a rerum illum tenetur in!
+		</p>
+	</div>
 </div>
 
+<div class="container mb-20">
+	<div>
+		<p class="pb-4 text-center font-serif text-4xl font-bold">
+			latest on <a class="underline" href="https://www.instagram.com/bridgingseas/">@bridgingseas</a
+			>
+		</p>
 
-<style>
-    .body {
-        padding-top: 1000px;
-        padding-bottom: 1000px;
-    }
-    .header {
-        overflow: hidden;
-        background-color: #d7a899;
-        padding: 20px 10px;
-        position: fixed;
-        top: 0%;
-        width: 100%;
-        
-    }
-
-    /* Style the header links */
-    .header a {
-    float: left;
-    color: black;
-    text-align: center;
-    padding: 12px;
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 25px;
-    border-radius: 4px;
-    }
-
-    /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
-    .header a.logo {
-        font-style: alegreya;
-        font-size: 25px;
-        font-weight: bold;
-    }
-
-    /* Change the background color on mouse-over */
-    .header a:hover {
-    background-color: #ddd;
-    color: black;
-    }
-
-    /* Style the active/current link*/
-    
-
-    /* Float the link section to the right */
-    .header-right {
-    float: right;
-    }
-
-    /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
-    @media screen and (max-width: 500px) {
-    .header a {
-        float: none;
-        display: block;
-        text-align: left;
-    }
-    .header-right {
-        float: none;
-    }
-
-    }
-
-
-    .footer {
-        overflow: hidden;
-        background-color: #d7a899;
-        padding: 20px 0px;
-        position:fixed;
-        top: 80%;
-        width: 100%;
-    }
-
-    .footer-left {
-        float: left;
-        padding: 45px 50px;
-    }
-
-    .footer-right {
-        float: right;
-        
-        color: black;
-        text-align: center;
-        padding: 12px;
-        text-decoration: none;
-        font-size: 18px;
-        line-height: 25px;
-        border-radius: 4px;
-    }
-</style>
+		<div class="grid grid-cols-3 place-items-center gap-2">
+			<img width="500" height="500" alt="jhope" src={jhope} />
+			<img width="500" height="500" alt="jimin" src={jimin} />
+			<img width="500" height="500" alt="jin" src={jin} />
+			<img width="500" height="500" alt="jungkook" src={jungkook} />
+			<img width="500" height="500" alt="rm" src={rm} />
+			<img width="500" height="500" alt="suga" src={suga} />
+			<img width="500" height="500" alt="v" src={v} />
+		</div>
+	</div>
+</div>
