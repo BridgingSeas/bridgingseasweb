@@ -41,30 +41,36 @@
 		<div transition:slide={{ duration: 800 }} class="absolute w-screen bg-[#ffc8b6] md:hidden">
 			<div class="container flex flex-col gap-4 pt-4 pb-8 text-right">
 				<div>
-					<a class="fit font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/"
-						>Home</a
+					<a
+						on:click={() => (open = false)}
+						class="fit font-bold underline-offset-8 hover:text-[#565656] hover:underline"
+						href="/">Home</a
 					>
 				</div>
 				<div>
 					<a
+						on:click={() => (open = false)}
 						class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
 						href="/members">Members</a
 					>
 				</div>
 				<div>
 					<a
+						on:click={() => (open = false)}
 						class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
 						href="/partners">Our Partners</a
 					>
 				</div>
 				<div>
 					<a
+						on:click={() => (open = false)}
 						class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
 						href="/getinvolved">Get Involved</a
 					>
 				</div>
 				<div>
 					<a
+						on:click={() => (open = false)}
 						class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
 						href="/contact">Contact Us</a
 					>
