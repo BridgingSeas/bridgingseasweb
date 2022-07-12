@@ -1,4 +1,4 @@
-<div class="fixed sticky top-0 w-full bg-[#d7a899] py-4 ">
+<div class="fixed top-0 w-full bg-[#ffc8b6] py-4 z-50">
 	<div class="container mx-auto flex items-center">
 		<a href="/"
 			><img
@@ -10,11 +10,12 @@
 		<div class="flex-grow" />
 
 		<div class="flex gap-x-8">
-			<a href="/">Home</a>
-			<a href="/members">Members</a>
-			<a href="/partners">Our Partners</a>
-			<a href="/getinvolved">Get Involved</a>
-			<a href="/contact">Contact Us</a>
+
+			<a class="hover:text-[#565656] hover:underline underline-offset-8" href="/">Home</a>
+			<a class="hover:text-[#565656] hover:underline underline-offset-8" href="/members">Members</a>
+			<a class="hover:text-[#565656] hover:underline underline-offset-8" href="/partners">Our Partners</a>
+			<a class="hover:text-[#565656] hover:underline underline-offset-8" href="/getinvolved">Get Involved</a>
+			<a class="hover:text-[#565656] hover:underline underline-offset-8" href="/contact">Contact Us</a>
 		</div>
 	</div>
 </div>
