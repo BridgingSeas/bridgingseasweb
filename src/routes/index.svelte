@@ -14,7 +14,7 @@
 
 <Hero />
 
-<div class="container mb-20 grid grid-cols-2 gap-x-8">
+<div class="container mb-20 grid grid-cols-2 gap-x-8 pt-20">
 	<div>
 		<!-- left -->
 		<p class="font-serif text-4xl font-bold">Connect with your roots</p>

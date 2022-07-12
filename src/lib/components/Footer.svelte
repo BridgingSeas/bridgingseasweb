@@ -1,4 +1,4 @@
-<div class="w-full bg-[#d7a899] py-10 px-8">
+<div class="w-full bg-[#ffc8b6] py-10 px-8">
 	<div class="container mx-auto grid grid-cols-2">
 		<div>
 			<!-- left side -->

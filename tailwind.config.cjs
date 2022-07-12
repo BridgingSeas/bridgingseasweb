@@ -4,7 +4,7 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
-				amongus: "url('$lib/amongus.jpg')"
+				wave: "url('$lib/waves.png')"
 			},
 			container: {
 				center: true,
