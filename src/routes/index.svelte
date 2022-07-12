@@ -1,7 +1,8 @@
 <script>
 	import Hero from '$lib/components/Hero.svelte';
-	import fortnite from '$lib/fortnite.jpg';
-	import fallguys from '$lib/fallguys.jpg';
+
+	import bridge from '$lib/bridge.png';
+	import sponge from '$lib/sponge.png';
 
 	import jhope from '$lib/bts/jhope.jpg';
 	import jimin from '$lib/bts/jimin.jpg';
@@ -14,15 +15,14 @@
 
 <Hero />
 
-<div class="container mb-20 grid grid-cols-2 gap-x-8 pt-20">
+<div class="container mb-20 grid grid-cols-1 xl:grid-cols-2 gap-x-8 pt-20">
 	<div>
-		<!-- left -->
+		<!-- left / top -->
 		<p class="font-serif text-4xl font-bold">Connect with your roots</p>
 
-		<p>
+		<p class="pt-4">
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem neque, corrupti,
 			explicabo, exercitationem sunt ducimus veritatis officiis dignissimos at molestias reiciendis
-			nisi adipisci assumenda voluptate saepe laboriosam dicta quis id possimus provident tempore
 			dolor. Eos, exercitationem repudiandae ad sequi reprehenderit temporibus id ex repellat nulla
 			dolores minima maiores deleniti natus, excepturi dignissimos optio laborum vero veritatis
 			ullam laudantium. Numquam omnis suscipit quia ipsa. Ut consectetur sint laudantium, omnis
@@ -32,25 +32,25 @@
 		</p>
 	</div>
 
-	<div>
-		<!-- right -->
-		<img alt="fortnite" src={fortnite} />
+	<div class="pt-10 xl:pt-0">
+		<!-- right / bottom -->
+		<img alt="bridge" src={bridge} />
 	</div>
 </div>
 
-<div class="container mb-20 grid grid-cols-2 gap-x-8">
+<div class="container mb-20 grid grid-cols-1 xl:grid-cols-2 gap-x-8">
 	<div>
-		<!-- left -->
-		<img alt="fallguys" src={fallguys} />
+		<!-- left / top -->
+		<img alt="sponge" src={sponge} />
 	</div>
 
-	<div>
-		<!-- right -->
+	<div class="pt-10 xl:pt-0">
+		<!-- right / bottom -->
 		<p class="font-serif text-4xl font-bold">
 			The messages seen <span class="underline">'round</span> the world
 		</p>
 
-		<p>
+		<p class="pt-4">
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem neque, corrupti,
 			explicabo, exercitationem sunt ducimus veritatis officiis dignissimos at molestias reiciendis
 			nisi adipisci assumenda voluptate saepe laboriosam dicta quis id possimus provident tempore
