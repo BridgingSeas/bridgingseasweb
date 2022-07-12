@@ -1,7 +1,7 @@
 <script>
 	import Hamburger from 'svelte-hamburger';
 	import { slide } from 'svelte/transition';
-	let open = true;
+	let open = false;
 </script>
 
 <div class="sticky top-0 z-50 w-full bg-[#ffc8b6] py-4 drop-shadow-xl">
