@@ -64,6 +64,22 @@
 	</div>
 </div>
 
+<div class="container mb-20 grid grid-cols-1 grid-rows-2 gap-x-8 xl:grid-cols-3">
+	<div>
+		hi
+	</div>
+
+	<div>
+		hi
+	</div>
+	<div>
+		hi
+	</div>
+	<div>
+		hi
+	</div>
+</div>
+
 <div class="container mb-20">
 	<div>
 		<p class="pb-4 text-center font-serif text-4xl font-bold">

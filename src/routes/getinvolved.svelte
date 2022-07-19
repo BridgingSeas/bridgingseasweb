@@ -1,3 +1,8 @@
+<script>
+	import penpal from '$lib/penpal2.png';
+    import team from '$lib/jointheteam.png';
+</script>
+
 <div class=" pt-20 pb-20 bg-[#f7e3d2]">
     <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 
@@ -23,9 +28,9 @@
         
         
     
-        <div class="pt-10 xl:pt-0">
+        <div class="grid pt-10 xl:pt-0 justify-center">
             <!-- right / bottom -->
-            
+            <img alt=penpal src={penpal}  height=400 width=400>
         </div>
 
         
@@ -37,12 +42,12 @@
     <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
         
     
-        <div class="pt-10 xl:pt-0">
-            <!-- right / bottom -->
+        <div class="grid pt-10 xl:pt-0 justify-center">
             
+            <img alt=penpal src={team}  height=400 width=400>
         </div>
         <div>
-            <!-- left / top -->
+            
             <p class="font-serif text-7xl font-bold text-center">Join the team</p>
     
             <p class="pt-4 text-center">

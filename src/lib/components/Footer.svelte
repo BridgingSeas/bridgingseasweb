@@ -1,3 +1,12 @@
+
+<script>
+	import fb from '$lib/fb.png';
+	import lk from '$lib/lk.png';
+	import twitter from '$lib/twitter.png';
+	import insta from '$lib/insta.png';
+</script>
+
+
 <div class="w-full bg-[#ffc8b6] py-10 px-8">
 	<div class="container mx-auto grid grid-cols-1 gap-y-4 md:grid-cols-2">
 		<div>
@@ -5,25 +14,33 @@
 			<div class="flex gap-4">
 				<a href="https://www.instagram.com/bridgingseas/"
 					><img
-						src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-256.png"
+						src={insta}
 						alt="instagram"
 						class="h-12 w-12"
 					/></a
 				>
 				<a href="https://www.facebook.com/bridgingseas/"
 					><img
-						src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-256.png"
+						src={fb}
 						alt="facebook"
 						class="h-12 w-12"
 					/></a
 				>
 				<a href="https://twitter.com/BridgingSeas"
 					><img
-						src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-256.png"
+						src={twitter}
 						alt="twitter"
 						class="h-12 w-12"
 					/></a
 				>
+				<a href="https://www.linkedin.com/company/bridging-seas/"
+					><img
+						src="https://cdn.discordapp.com/attachments/609426945603797003/995796880351051817/IMG_1641.png"
+						alt="tiktok"
+						class="h-12 w-12"
+					/></a
+				>
+
 				<a href="https://www.tiktok.com/@bridgingseas?"
 					><img
 						src="https://cdn.discordapp.com/attachments/609426945603797003/995796880351051817/IMG_1641.png"
