@@ -1,6 +1,7 @@
 <script>
 	import Hamburger from 'svelte-hamburger';
 	import { slide } from 'svelte/transition';
+	
 	let open = false;
 </script>
 
@@ -20,8 +21,8 @@
 		<div class="hidden md:flex md:gap-x-4 lg:gap-x-8">
 			<!-- for large screens -->
 			<a class="font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/">Home</a>
-			<a class="font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/members"
-				>Members</a
+			<a class="font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/about"
+				>About</a
 			>
 			<a class="font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/partners"
 				>Our Partners</a
@@ -30,8 +31,8 @@
 				class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
 				href="/getinvolved">Get Involved</a
 			>
-			<a class="font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/contact"
-				>Contact Us</a
+			<a class="font-bold underline-offset-8 hover:text-[#565656] hover:underline" href="/donate"
+				>Donate</a
 			>
 		</div>
 	</div>
@@ -51,7 +52,7 @@
 					<a
 						on:click={() => (open = false)}
 						class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
-						href="/members">Members</a
+						href="/about">About</a
 					>
 				</div>
 				<div>
@@ -72,7 +73,7 @@
 					<a
 						on:click={() => (open = false)}
 						class="font-bold underline-offset-8 hover:text-[#565656] hover:underline"
-						href="/contact">Contact Us</a
+						href="/donate">Donate</a
 					>
 				</div>
 			</div>
