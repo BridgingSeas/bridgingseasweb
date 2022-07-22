@@ -4,6 +4,7 @@
 	import lk from '$lib/lk.png';
 	import twitter from '$lib/twitter.png';
 	import insta from '$lib/insta.png';
+	import tiktok from '$lib/tiktok.png';
 </script>
 
 
@@ -35,15 +36,15 @@
 				>
 				<a href="https://www.linkedin.com/company/bridging-seas/"
 					><img
-						src="https://cdn.discordapp.com/attachments/609426945603797003/995796880351051817/IMG_1641.png"
-						alt="tiktok"
+						src={lk}
+						alt="linkedln"
 						class="h-12 w-12"
 					/></a
 				>
 
 				<a href="https://www.tiktok.com/@bridgingseas?"
 					><img
-						src="https://cdn.discordapp.com/attachments/609426945603797003/995796880351051817/IMG_1641.png"
+						src={tiktok}
 						alt="tiktok"
 						class="h-12 w-12"
 					/></a

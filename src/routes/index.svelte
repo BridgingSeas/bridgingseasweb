@@ -11,6 +11,9 @@
 	import rm from '$lib/bts/rm.jpg';
 	import suga from '$lib/bts/suga.jpg';
 	import v from '$lib/bts/v.jpg';
+	import unity from '$lib/unity.png';
+	import app from '$lib/appreciation.png';
+	import culture from '$lib/culture.png';
 </script>
 
 <Hero />
@@ -66,17 +69,29 @@
 
 <div class="container mb-20 grid grid-cols-1 grid-rows-2 gap-x-8 xl:grid-cols-3">
 	<div>
-		hi
+		<img src={app} alt="appreciation">
 	</div>
-
+		
 	<div>
-		hi
-	</div>
-	<div>
-		hi
+		<img src={unity} alt="unity">
 	</div>
 	<div>
-		hi
+		<img src={culture} alt="culture">
+	</div>
+	<div>
+		<p class="font-semibold pr-5 pl-5 rounded-b-lg pt-5 pb-5 text-center bg-[#FDF4E3]">
+			Not only do we encouraging the act of embracing our cultures, we want people to appreciate each others’ cultures, including overlapping similaries and differences. It is through appreciating the small specific nuances of shared culture through pen-palling that our pairs learn to love and accept their cultures even more. 
+		</p>
+	</div>
+	<div>
+		<p class="font-semibold pr-5 pl-5 rounded-b-lg pt-5 pb-5 text-center bg-[#FDF4E3]">
+			At Bridging Seas, one of our overarching goals is to cultivate a safe community space for youth to come together and make friends, not just with their pen-pals but with other pen-pal pairs too. Through monthly community corners and meetings, we aim to foster a long-lasting community that will always be there for our pen-pals.
+		</p>
+	</div>
+	<div >
+		<p class="font-semibold pr-5 pl-5 rounded-b-lg pt-5 pb-5 text-center bg-[#FDF4E3]">
+			Our cultures represent visions of life that follow us from our upbringing to our future and aspirations. They are core to who we are and link us with others who share the same culture. Recognizing the potential for culture to unify the Asian diaspora, Bridging Seas aims to bridge this cultural gap through pen-palling and making new connections. 
+		</p>
 	</div>
 </div>
 
