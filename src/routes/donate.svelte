@@ -2,7 +2,7 @@
 	import donate from '$lib/donate.png';
 </script>
 
-<div class="grid grid-cols-1 place-items-center bg-[#FFE3D5] xl:grid-cols-2">
+<div class="grid grid-cols-1 place-items-center bg-[#ffe2d3] xl:grid-cols-2">
 	<div class="content-center text-center">
 		<p class="pb-5 font-serif text-5xl sm:text-6xl">Donate</p>
 		<p class="px-20 text-xl">
