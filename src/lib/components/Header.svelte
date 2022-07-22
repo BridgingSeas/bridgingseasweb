@@ -1,7 +1,7 @@
 <script>
 	import Hamburger from 'svelte-hamburger';
 	import { slide } from 'svelte/transition';
-	
+
 	let open = false;
 </script>
 
