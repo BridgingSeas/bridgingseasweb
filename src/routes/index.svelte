@@ -111,7 +111,7 @@
 			>
 		</p>
 
-		<div class="grid grid-cols-3 place-items-center gap-2">
+		<div class="grid grid xl:grid-cols-3 place-items-center gap-2">
 			<img width="500" height="500" alt="jhope" src={jhope} />
 			<img width="500" height="500" alt="jimin" src={jimin} />
 			<img width="500" height="500" alt="jin" src={jin} />
