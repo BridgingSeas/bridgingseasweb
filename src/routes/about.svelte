@@ -9,7 +9,7 @@
 	import vivian from '$lib/team/vivian.jpeg';
 </script>
 
-<div class="flex min-h-[50vh] items-center justify-center bg-[#FFB4A2] bg-cover bg-center">
+<div class="flex min-h-[50vh] items-center justify-center bg-[#F6CAB9] bg-cover bg-center">
 	<div>
 		<p class="text-center font-serif text-5xl text-[#fffffa] sm:text-6xl">Mission Statement</p>
 		<p class="mt-4 text-center font-serif text-2xl text-[#fffffa] sm:text-3xl">
@@ -26,14 +26,14 @@
 	</div>
 </div>
 
-<div class="flex items-center justify-center pt-10 pb-10 ">
+<div class="flex items-center justify-center pt-10 pb-20 ">
 	<div class="text-center">
 		<p class="pb-5 text-8xl">Our Founders</p>
 		<p class="text-2xl">Meet the people who built Bridging Seas from the ground up.</p>
 	</div>
 </div>
 
-<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
+<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={lauren} alt="lauren" height="1000" width="1000" />
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
@@ -50,7 +50,9 @@
 	</div>
 </div>
 
-<div class="flex items-center justify-center pt-10 pb-10 ">
+
+
+<div class="flex items-center justify-center pt-10 pb-20 ">
 	<div class="text-center">
 		<p class="pb-5 text-8xl">Our Directors</p>
 		<p class="text-2xl">Meet the people who keep Bridging Seas awesome.</p>
@@ -74,7 +76,7 @@
 	</div>
 </div>
 
-<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
+<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={laura} alt="Laura" height="1000" width="1000" />
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Chinese Outreach</p>
