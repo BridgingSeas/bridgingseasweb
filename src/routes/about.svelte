@@ -7,11 +7,9 @@
 	import laura from '$lib/team/laura.jpeg';
 	import tammy from '$lib/team/tammy.jpeg';
 	import vivian from '$lib/team/vivian.jpeg';
-
 </script>
-<div
-	class="flex min-h-[50vh] items-center justify-center bg-[#FFB4A2] bg-cover bg-center"
->
+
+<div class="flex min-h-[50vh] items-center justify-center bg-[#FFB4A2] bg-cover bg-center">
 	<div>
 		<p class="text-center font-serif text-5xl text-[#fffffa] sm:text-6xl">Mission Statement</p>
 		<p class="mt-4 text-center font-serif text-2xl text-[#fffffa] sm:text-3xl">
@@ -28,94 +26,69 @@
 	</div>
 </div>
 
-<div class ="flex pt-10 pb-10 items-center justify-center ">
+<div class="flex items-center justify-center pt-10 pb-10 ">
 	<div class="text-center">
-		<p class="text-8xl pb-5">
-			Our Founders
-		</p>
-		<p class="text-2xl">
-			Meet the people who built Bridging Seas from the ground up.
-		</p>
+		<p class="pb-5 text-8xl">Our Founders</p>
+		<p class="text-2xl">Meet the people who built Bridging Seas from the ground up.</p>
 	</div>
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
 	<div>
-		<img src = {lauren} alt="lauren" height=1000 width=1000>
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Co-Founder
-		</p>
+		<img src={lauren} alt="lauren" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 
 	<div>
-		<img src = {sharon} alt="sharon" height=1000 width=1000 >
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Co-Founder
-		</p>
+		<img src={sharon} alt="sharon" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 
 	<div>
-		<img src = {izzy} alt="isabella">
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Co-Founder
-		</p>
+		<img src={izzy} alt="isabella" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 </div>
 
-<div class ="flex pt-10 pb-10 items-center justify-center ">
+<div class="flex items-center justify-center pt-10 pb-10 ">
 	<div class="text-center">
-		<p class="text-8xl pb-5">
-			Our Directors
-		</p>
-		<p class="text-2xl">
-			Meet the people who keep Bridging Seas awesome.
-		</p>
-	</div>
-</div>
-
-
-<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
-	<div>
-		<img src = {ant} alt="Anthony" height=1000 width=1000>
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / IT & Web Design
-		</p>
-	</div>
-
-	<div>
-		<img src = {tammy} alt="Tammy" height=1000 width=1000 >
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Graphic Design
-		</p>
-	</div>
-
-	<div>
-		<img src = {vivian} alt="Vivian">
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Graphic Design
-		</p>
+		<p class="pb-5 text-8xl">Our Directors</p>
+		<p class="text-2xl">Meet the people who keep Bridging Seas awesome.</p>
 	</div>
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
 	<div>
-		<img src = {laura} alt="Laura" height=1000 width=1000>
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Chinese Outreach
-		</p>
+		<img src={ant} alt="Anthony" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / IT & Web Design</p>
 	</div>
 
 	<div>
-		<img src = {jina} alt="Jina" height=1000 width=1000 >
+		<img src={tammy} alt="Tammy" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Graphic Design</p>
+	</div>
+
+	<div>
+		<img src={vivian} alt="Vivian" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Graphic Design</p>
+	</div>
+</div>
+
+<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
+	<div>
+		<img src={laura} alt="Laura" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Chinese Outreach</p>
+	</div>
+
+	<div>
+		<img src={jina} alt="Jina" height="1000" width="1000" />
 		<p class="pt-4 pb-4 text-center text-xl">
 			Senior at Stuyvesant High School / Stuy Chapter Lead
 		</p>
 	</div>
 
 	<div>
-		<img src = {izzy} alt="isabella">
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Co-Founder
-		</p>
+		<img src={izzy} alt="isabella" />
+		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 </div>
