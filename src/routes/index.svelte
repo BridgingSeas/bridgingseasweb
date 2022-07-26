@@ -4,13 +4,10 @@
 	import bridge from '$lib/bridge.png';
 	import sponge from '$lib/sponge.png';
 
-	import jhope from '$lib/bts/jhope.jpg';
-	import jimin from '$lib/bts/jimin.jpg';
-	import jin from '$lib/bts/jin.jpg';
-	import jungkook from '$lib/bts/jungkook.jpg';
-	import rm from '$lib/bts/rm.jpg';
-	import suga from '$lib/bts/suga.jpg';
-	import v from '$lib/bts/v.jpg';
+	import one from '$lib/insta/1.jpeg';
+	import two from '$lib/insta/2.jpeg';
+	import three from '$lib/insta	/3.jpeg';
+	
 	import unity from '$lib/unity.png';
 	import app from '$lib/appreciation.png';
 	import culture from '$lib/culture.png';
@@ -23,15 +20,8 @@
 		<!-- left / top -->
 		<p class="font-serif text-4xl font-bold">Connect with your roots</p>
 
-		<p class="pt-4">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem neque, corrupti,
-			explicabo, exercitationem sunt ducimus veritatis officiis dignissimos at molestias reiciendis
-			dolor. Eos, exercitationem repudiandae ad sequi reprehenderit temporibus id ex repellat nulla
-			dolores minima maiores deleniti natus, excepturi dignissimos optio laborum vero veritatis
-			ullam laudantium. Numquam omnis suscipit quia ipsa. Ut consectetur sint laudantium, omnis
-			quasi quam rerum assumenda aliquam quas. Ad exercitationem ea magni nesciunt sunt, debitis
-			tenetur reiciendis distinctio dolorum, beatae minima veniam, excepturi maiores quae
-			perspiciatis voluptas. Perspiciatis a rerum illum tenetur in!
+		<p class="pt-4 text-lg">
+			Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora. Our goal is to connect high schoolers from around the world by creating a platform for them to learn about each other's cultures and unique experiences. We envision a more compassionate, understanding world where students embrace their roots and different lifestyles through direct communication with international friends.
 		</p>
 	</div>
 
@@ -53,16 +43,8 @@
 			The messages seen <span class="underline">'round</span> the world
 		</p>
 
-		<p class="pt-4">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem neque, corrupti,
-			explicabo, exercitationem sunt ducimus veritatis officiis dignissimos at molestias reiciendis
-			nisi adipisci assumenda voluptate saepe laboriosam dicta quis id possimus provident tempore
-			dolor. Eos, exercitationem repudiandae ad sequi reprehenderit temporibus id ex repellat nulla
-			dolores minima maiores deleniti natus, excepturi dignissimos optio laborum vero veritatis
-			ullam laudantium. Numquam omnis suscipit quia ipsa. Ut consectetur sint laudantium, omnis
-			quasi quam rerum assumenda aliquam quas. Ad exercitationem ea magni nesciunt sunt, debitis
-			tenetur reiciendis distinctio dolorum, beatae minima veniam, excepturi maiores quae
-			perspiciatis voluptas. Perspiciatis a rerum illum tenetur in!
+		<p class="pt-4 text-lg">
+			Want to make friends across the world? We got you. Bridging Seas offers a pen pal program. Asian students all over the word regardless of nationality will be matched with a pen pal of the same ethnicity. Make new friends and get to know a world outside of your own!
 		</p>
 	</div>
 </div>
@@ -80,45 +62,39 @@
 	</div>
 	<div>
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
-			Not only do we encouraging the act of embracing our cultures, we want people to appreciate
-			each others’ cultures, including overlapping similaries and differences. It is through
-			appreciating the small specific nuances of shared culture through pen-palling that our pairs
-			learn to love and accept their cultures even more.
+			Bridging Seas believes culture represents a vision of life that follows us from our upbringings to our futures and aspirations. Culture is the core of who we are and connects us with those who share the same culture. Recognizing the potential for culture to unify the Asian diaspora, Bridging Seas aims to emphasize the discussion of culture with all youth, connecting students from around the world closer to their cultural roots and encouraging them to embrace the diversity of culture around them through pen palling
 		</p>
 	</div>
 	<div>
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
-			At Bridging Seas, one of our overarching goals is to cultivate a safe community space for
-			youth to come together and make friends, not just with their pen-pals but with other pen-pal
-			pairs too. Through monthly community corners and meetings, we aim to foster a long-lasting
-			community that will always be there for our pen-pals.
+			As youth ourselves, the Bridging Seas team knows too well the constant struggle to love and appreciate our nuanced and diverse cultures. Especially for those who are expats or immigrants, it becomes increasingly hard to find that feeling of appreciation when Western ideals of culture are pushed toward us. Bridging Seas is a safe platform for students to not only appreciate their cultural roots through exchange with students that share those roots, but also a place to discover how their culture is diverse, adaptable, and changing all the time when they speak with students that even though share the same ethnicity as them, live in different parts of the world and experience culture in a completely different way.
 		</p>
 	</div>
 	<div>
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
-			Our cultures represent visions of life that follow us from our upbringing to our future and
-			aspirations. They are core to who we are and link us with others who share the same culture.
-			Recognizing the potential for culture to unify the Asian diaspora, Bridging Seas aims to
-			bridge this cultural gap through pen-palling and making new connections.
+			Bridging Sea’s foremost mission is to create safe spaces for our students to feel comfortable sharing their culture with others. Learning to appreciate our culture can be a hard struggle. We aim to make our students feel supported and heard in our community as they grow in their cultural exploration. Through our monthly meetings and community corners, we cultivate that safe space for our youth to come together and make friends that will become a part of their family. 
 		</p>
 	</div>
 </div>
 
 <div class="container mb-20">
-	<div>
-		<p class="pb-4 text-center font-serif text-4xl font-bold">
-			latest on <a class="underline" href="https://www.instagram.com/bridgingseas/">@bridgingseas</a
-			>
-		</p>
+    <div>
+        <p class="pb-10 text-center font-serif text-4xl font-bold">
+            latest on <a class="underline" href="https://www.instagram.com/bridgingseas/">@bridgingseas</a
+            >
+        </p>
 
-		<div class="grid grid xl:grid-cols-3 place-items-center gap-2">
-			<img width="500" height="500" alt="jhope" src={jhope} />
-			<img width="500" height="500" alt="jimin" src={jimin} />
-			<img width="500" height="500" alt="jin" src={jin} />
-			<img width="500" height="500" alt="jungkook" src={jungkook} />
-			<img width="500" height="500" alt="rm" src={rm} />
-			<img width="500" height="500" alt="suga" src={suga} />
-			<img width="500" height="500" alt="v" src={v} />
-		</div>
-	</div>
+        <div class="grid grid-cols-1 xl:grid-cols-3 place-items-center gap-2">
+            <a href="https://www.instagram.com/p/CgQQ3BlLlPG/?utm_source=ig_web_copy_link">
+                <img width="500" height="500"  src={one}  alt="1"/>
+            </a>
+            <a href="https://www.instagram.com/p/CgF_pazLtnF/?utm_source=ig_web_copy_link">
+                <img width="500" height="500"  src={two} alt="2"/>
+            </a>
+            <a href="https://www.instagram.com/p/Cf93ag_P2aW/?utm_source=ig_web_copy_link">
+                <img width="500" height="500"  src={three} alt="3"/>
+            </a>
+            
+        </div>
+    </div>
 </div>

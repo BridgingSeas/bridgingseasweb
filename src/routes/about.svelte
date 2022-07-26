@@ -8,7 +8,7 @@
 	import tammy from '$lib/team/tammy.jpeg';
 	import vivian from '$lib/team/vivian.jpeg';
 </script>
-
+<!--
 <div class="flex min-h-[50vh] items-center justify-center bg-[#F6CAB9] bg-cover bg-center">
 	<div>
 		<p class="text-center font-serif text-5xl text-[#fffffa] sm:text-6xl">Mission Statement</p>
@@ -25,6 +25,7 @@
 		</a>
 	</div>
 </div>
+-->
 
 <div class="flex items-center justify-center pt-10 pb-20 ">
 	<div class="text-center">
@@ -36,16 +37,19 @@
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={lauren} alt="lauren" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-4xl">Lauren Lee</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 
 	<div>
 		<img src={sharon} alt="sharon" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-4xl">Sharon Liu</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 
 	<div>
 		<img src={izzy} alt="isabella" />
+		<p class="pt-4 pb-4 text-center text-4xl">Isabella Jia</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
 	</div>
 </div>
@@ -62,16 +66,19 @@
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
 	<div>
 		<img src={ant} alt="Anthony" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-4xl">Anthony Sun</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / IT & Web Design</p>
 	</div>
 
 	<div>
 		<img src={tammy} alt="Tammy" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-4xl">Tammy Zhao</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Graphic Design</p>
 	</div>
 
 	<div>
 		<img src={vivian} alt="Vivian" />
+		<p class="pt-4 pb-4 text-center text-4xl">Vivian Teo</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Graphic Design</p>
 	</div>
 </div>
@@ -79,18 +86,19 @@
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={laura} alt="Laura" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-4xl">Laura Xia</p>
 		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Chinese Outreach</p>
 	</div>
 
 	<div>
 		<img src={jina} alt="Jina" height="1000" width="1000" />
+		<p class="pt-4 pb-4 text-center text-4xl">Jina Koh</p>
 		<p class="pt-4 pb-4 text-center text-xl">
 			Senior at Stuyvesant High School / Stuy Chapter Lead
 		</p>
 	</div>
 
 	<div>
-		<img src={izzy} alt="isabella" />
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
+	
 	</div>
 </div>
