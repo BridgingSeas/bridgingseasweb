@@ -6,7 +6,7 @@
 
 	import one from '$lib/insta/1.jpeg';
 	import two from '$lib/insta/2.jpeg';
-	import three from '$lib/insta	/3.jpeg';
+	import three from '$lib/insta/3.jpeg';
 	
 	import unity from '$lib/unity.png';
 	import app from '$lib/appreciation.png';
