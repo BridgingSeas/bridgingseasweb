@@ -21,11 +21,11 @@
 			which organization and project they’d like us to support. Additionally, the top 20 donors can
 			choose to have their name displayed on our website as a token of our appreciation.
 		</p>
-		<a href="/getinvolved">
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSekyqAR9MnH7l_qNF2rdNjBucfvuXkMCIQlOw1Ryb81H3FzrA/viewform">
 			<div
 				class="mx-auto mt-10 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-20 sm:text-base"
 			>
-				Get Involved
+				Contribute
 			</div>
 		</a>
 	</div>
