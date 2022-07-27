@@ -15,7 +15,7 @@
 	<div>
 		<p class="font-serif text-3xl font-bold">Miscreants</p>
 		<p class="pt-4">
-			Voice for Teen minorities, Social issues, and Injustices. Founded by the members of Voice.
+			Miscreants is a creative studio building memorable brands, investing in new ideas, and helping cybersecurity ventures connect with their audience.
 		</p>
 
 		<a href="https://www.miscreants.com/" target="_blank">
