@@ -60,7 +60,11 @@
 	<div class="grid grid-rows-2 pb-5">
 		<img src={unity} alt="unity" />
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
-			As youth ourselves, the Bridging Seas team knows too well the constant struggle to love and appreciate our nuanced and diverse cultures. Especially for those who are expats or immigrants, it becomes increasingly hard to find that feeling of appreciation when Western ideals of culture are pushed toward us. Bridging Seas is a safe platform for students to not only appreciate their cultural roots through exchange with students that share those roots, but also a place to discover how their culture is diverse, adaptable, and changing all the time when they speak with students that even though share the same ethnicity as them, live in different parts of the world and experience culture in a completely different way.
+			As youth ourselves, the Bridging Seas team knows too well the constant struggle to love 
+			and appreciate our nuanced and diverse cultures. Bridging Seas is a safe platform for students to not only appreciate 
+			 their cultural roots through exchange with students that share those roots, but also a place to discover 
+			 how their culture is diverse, adaptable, and changing all the time when they speak with students that even though share the same ethnicity as them, 
+			 live in different parts of the world and experience culture in a completely different way.
 		</p>
 	</div>
 	<div class="grid grid-rows-2 pb-5">
