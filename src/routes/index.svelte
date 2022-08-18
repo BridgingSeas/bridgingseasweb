@@ -40,7 +40,7 @@
 	<div class="pt-10 xl:pt-0">
 		<!-- right / bottom -->
 		<p class="font-serif text-4xl font-bold">
-			The messages seen <span class="underline">'round</span> the world
+			The messages seen 'round the world
 		</p>
 
 		<p class="pt-4 text-lg">
