@@ -67,9 +67,9 @@
 			 live in different parts of the world and experience culture in a completely different way.
 		</p>
 	</div>
-	<div class="grid grid-rows-2 pb-5">
-		<img src={culture} alt="culture" />
-		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
+	<div class="grid grid-rows-2 pb-5 place-items-center ">
+		<img class="sm:w-4/5" src={culture} alt="culture" />
+		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold sm:h-4/5 ">
 			Bridging Sea’s foremost mission is to create safe spaces for our students to feel comfortable sharing their culture with others. Learning to appreciate our culture can be a hard struggle. We aim to make our students feel supported and heard in our community as they grow in their cultural exploration. Through our monthly meetings and community corners, we cultivate that safe space for our youth to come together and make friends that will become a part of their family. 
 		</p>
 	</div>
