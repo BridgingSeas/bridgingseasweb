@@ -1,5 +1,6 @@
 <script>
 	import Hero from '$lib/components/Hero.svelte';
+	import Card from '$lib/components/Card.svelte';
 
 	import bridge from '$lib/bridge.png';
 	import sponge from '$lib/sponge.png';
@@ -50,14 +51,23 @@
 </div>
 
 <div class="container mb-20 grid grid-cols-1  gap-x-8 xl:grid-cols-3">
-	<div class="grid grid-rows-2 pb-5">
+	<!-- <div class="grid grid-rows-2 pb-5">
 		<img src={app} alt="appreciation" />
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
 			Bridging Seas believes culture represents a vision of life that follows us from our upbringings to our futures and aspirations. Culture is the core of who we are and connects us with those who share the same culture. Recognizing the potential for culture to unify the Asian diaspora, Bridging Seas aims to emphasize the discussion of culture with all youth, connecting students from around the world closer to their cultural roots and encouraging them to embrace the diversity of culture around them through pen palling
 		</p>
+	</div> -->
+	<div class="">
+		<Card image={app} text = {"hi"} --bgcolor="rgb(255, 226, 211)" />
+	</div>
+	<div>
+		<Card image={app} text = {"hi"} --bgcolor="rgb(255, 226, 211)" />
+	</div>
+	<div>
+		<Card image={app} text = {"hi"} --bgcolor="rgb(255, 226, 211)" />
 	</div>
 
-	<div class="grid grid-rows-2 pb-5">
+	<!-- <div class="grid grid-rows-2 pb-5">
 		<img src={unity} alt="unity" />
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
 			As youth ourselves, the Bridging Seas team knows too well the constant struggle to love 
@@ -68,11 +78,11 @@
 		</p>
 	</div>
 	<div class="grid grid-rows-2 pb-5 place-items-center ">
-		<img class="sm:w-4/5" src={culture} alt="culture" />
-		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold sm:h-4/5 ">
+		<img class=":w-4/5 md:h-4/5" src={culture} alt="culture" />
+		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold md:w-4/5">
 			Bridging Sea’s foremost mission is to create safe spaces for our students to feel comfortable sharing their culture with others. Learning to appreciate our culture can be a hard struggle. We aim to make our students feel supported and heard in our community as they grow in their cultural exploration. Through our monthly meetings and community corners, we cultivate that safe space for our youth to come together and make friends that will become a part of their family. 
 		</p>
-	</div>
+	</div>-->
 	
 	
 </div>
