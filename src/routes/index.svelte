@@ -50,7 +50,7 @@
 	</div>
 </div>
 
-<div class="container mb-20 grid grid-cols-1  gap-x-8 xl:grid-cols-3">
+<div class="container mb-20 h-min grid grid-cols-1  gap-x-8 xl:grid-cols-3">
 	<!-- <div class="grid grid-rows-2 pb-5">
 		<img src={app} alt="appreciation" />
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
