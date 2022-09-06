@@ -19,15 +19,15 @@
  */
 	/* console.log("hi") */
 </script>
-
+<head>
 <title>Bridging Seas</title>
 
 <meta name="Description" content="Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora.">
 
 <meta name="KeyWords" content="bridgingseas">
+
+</head>
 <Hero />
-
-
 <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
