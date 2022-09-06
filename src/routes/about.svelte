@@ -26,7 +26,7 @@
 	</div>
 </div>
 -->
-
+<title>About Us</title>
 <div class="flex items-center justify-center pt-10 pb-20 ">
 	<div class="text-center">
 		<p class="pb-5 text-8xl">Our Founders</p>

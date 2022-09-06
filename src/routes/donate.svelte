@@ -1,7 +1,7 @@
 <script>
 	import donate from '$lib/donate.png';
 </script>
-
+<title>Donate</title>
 <div class="grid grid-cols-1 place-items-center bg-[#ffe2d3] xl:grid-cols-2">
 	<div class="content-center text-center">
 		<p class="pb-5 font-serif text-5xl sm:text-6xl">Donate</p>

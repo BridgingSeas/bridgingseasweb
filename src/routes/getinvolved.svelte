@@ -2,7 +2,7 @@
 	import penpal from '$lib/penpal2.png';
 	import team from '$lib/jointheteam.png';
 </script>
-
+<title>Get Involved</title>
 <div class=" bg-[#FEE2D4] pt-20 pb-20">
 	<div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 		<div>

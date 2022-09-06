@@ -12,9 +12,21 @@
 	import unity from '$lib/unity.png';
 	import app from '$lib/appreciation.png';
 	import culture from '$lib/culture.png';
+
+	/* fetch('https://graph.instagram.com/v14.0/access_token=IGQVJYdDlpa2hmUXR6WHJmb1UxRzdyQ1I3aDAybXNtUG05NFV1Q25VR2VjemxWQmNCeWk3anNXODVEMnFldC1XSmU5dU1sQ0h3SkhLWnNERjdrR1VyRmZA1U2ttNWdNeXc0WVdFZA1dHY2dzVzhKZAWpFYQZDZD')
+  .then(response => response.json())
+  .then(json => console.log(json))
+ */
+	/* console.log("hi") */
 </script>
 
+<title>Bridging Seas</title>
+
+<meta name="Description" content="Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora.">
+
+<meta name="KeyWords" content="bridgingseas">
 <Hero />
+
 
 <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 	<div>
@@ -50,7 +62,10 @@
 	</div>
 </div>
 
-<div class="container mb-20 h-min grid grid-cols-1  gap-x-8 xl:grid-cols-3">
+<div class="container grid place-items-center">
+	<p class="text-[50px] font-bold">Our 3 Pillars</p>
+</div>
+<div class="container mb-20 h-min grid grid-cols-1	gap-y-8 gap-x-8 xl:grid-cols-3">
 	<!-- <div class="grid grid-rows-2 pb-5">
 		<img src={app} alt="appreciation" />
 		<p class="rounded-b-lg bg-[#FDF4E3] pr-5 pl-5 pt-5 pb-5 text-center font-semibold">
@@ -58,13 +73,22 @@
 		</p>
 	</div> -->
 	<div class="">
-		<Card image={app} text = {"hi"} --bgcolor="rgb(255, 226, 211)" />
+		<Card image={culture}  --bgcolor="rgb(255, 192, 180)">
+			<p class="text-[30px] font-bold ">Culture</p>
+			<p class="text-[20px]">Bridging Seas recognizes that <strong>culture</strong> is the core of who we are and connects us with those who share the same <strong>culture</strong>. Tapping into the <strong>culture</strong> of our youth, we encourage students from around the world to embrace the diversity of their <strong>cultural</strong> roots through pen-palling.</p>
+		</Card>
 	</div>
 	<div>
-		<Card image={app} text = {"hi"} --bgcolor="rgb(255, 226, 211)" />
+		<Card image={app} --bgcolor="rgb(255, 226, 211)">
+			<p class="text-[30px] font-bold ">Appreciation</p>
+			<p class="text-[20px]">As youth ourselves, the Bridging Seas team offers a safe platform for students to not only <strong>appreciate</strong> their culture through exchange with students who share the same roots, but also a place to discover how their culture is diverse, adaptable, and eternally changing.</p>
+		</Card>
 	</div>
 	<div>
-		<Card image={app} text = {"hi"} --bgcolor="rgb(255, 226, 211)" />
+		<Card image={unity} --bgcolor="rgb(255, 192, 180)">
+			<p class="text-[30px] font-bold ">Community</p>
+			<p class="text-[20px]">Bridging Sea’s foremost mission is to foster a <strong>community</strong> for our students to feel comfortable in sharing their culture. Through monthly meetings and <strong>community</strong> corners, we aim to make our students feel supported and heard in our <strong>community</strong> as they grow in their cultural exploration.</p>
+		</Card>
 	</div>
 
 	<!-- <div class="grid grid-rows-2 pb-5">
@@ -95,14 +119,14 @@
         </p>
 
         <div class="grid grid-cols-1 xl:grid-cols-3 place-items-center gap-2">
-            <a href="https://www.instagram.com/p/CgQQ3BlLlPG/?utm_source=ig_web_copy_link">
-                <img width="500" height="500"  src={one}  alt="1"/>
+            <a href="https://www.instagram.com/p/CiAltINuA0z/?utm_source=ig_web_copy_link">
+                <img width="500" height="500"  src="https://cdn.inflact.com/media/304659950_1255982948562908_308568857709073069_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-15%2F304659950_1255982948562908_308568857709073069_n.jpg%3Fstp%3Ddst-jpg_e35%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D108%26_nc_ohc%3DgUrIYpwB9aUAX-1YHIj%26edm%3DAJBgZrYBAAAA%26ccb%3D7-5%26ig_cache_key%3DMjkxODQ5ODM4MTk4NDI1OTUxOQ%253D%253D.2-ccb7-5%26oh%3D00_AT9lFKhTV3dQeL2Q8rNmPVicKf4XuRh5eUykOJF5vVbGkQ%26oe%3D631D0431%26_nc_sid%3D78c662&time=1662426000&key=e584803640a4452f9bd3876ed06e9a52"  alt="1"/>
             </a>
-            <a href="https://www.instagram.com/p/CgF_pazLtnF/?utm_source=ig_web_copy_link">
-                <img width="500" height="500"  src={two} alt="2"/>
+            <a href="https://www.instagram.com/p/Ch2X5mqOPcq/?utm_source=ig_web_copy_link">
+                <img width="500" height="500"  src="https://cdn.discordapp.com/attachments/896493938133839913/1016524906546090005/301986825_826826022061659_5008355178635619332_n.jpg" alt="2"/>
             </a>
-            <a href="https://www.instagram.com/p/Cf93ag_P2aW/?utm_source=ig_web_copy_link">
-                <img width="500" height="500"  src={three} alt="3"/>
+            <a href="https://www.instagram.com/p/ChsJnw2Oq_K/?utm_source=ig_web_copy_link">
+                <img width="500" height="500"  src="https://cdn.discordapp.com/attachments/896493938133839913/1016525247199068250/301240115_809493036729547_4152696001059636590_n.jpg" alt="3"/>
             </a>
             
         </div>

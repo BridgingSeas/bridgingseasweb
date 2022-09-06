@@ -1,16 +1,16 @@
 <script>
     export let image;
-    export let text;
     
 </script>
 
-<div class="flip-card bg-transparent w-4/5 h-4/5">
+<div class="flip-card bg-transparent ">
     <div class="flip-card-inner">
         <div class="flip-card-front">
             <img src="{image}"/>
         </div>
-        <div class="flip-card-back">
-            <p>{text}</p>
+        <div class="flip-card-back grid pr-8 pl-8 place-content-center">
+            <slot>
+            </slot>
           </div>
     </div>
 </div>
@@ -35,6 +35,8 @@
   .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
   }
+
+  
   
   /* Position the front and back side */
   .flip-card-front {
