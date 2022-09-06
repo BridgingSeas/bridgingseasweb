@@ -21,7 +21,7 @@
 </script>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<title>Bridging Seas</title>
 
