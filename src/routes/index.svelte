@@ -20,16 +20,17 @@
 	/* console.log("hi") */
 </script>
 
+<!DOCTYPE html>
+<html lang="EN">
+	<head>
+		<title>Bridging Seas</title>
 
+		<meta name="description" content="Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora.">
 
-<head>
-	<title>Bridging Seas</title>
+		<meta name="KeyWords" content="bridgingseas">
 
-	<meta name="description" content="Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora.">
-
-	<meta name="KeyWords" content="bridgingseas">
-
-</head>
+	</head>
+</html>
 <Hero />
 <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 	<div>
@@ -67,6 +68,7 @@
 
 <div class="container grid place-items-center">
 	<p class="text-[50px] font-bold">Our 3 Pillars</p>
+	<p class="pb-5">Hover over each image to learn more!</p>
 </div>
 <div class="container mb-20 h-min grid grid-cols-1	gap-y-8 gap-x-8 xl:grid-cols-3">
 	<!-- <div class="grid grid-rows-2 pb-5">

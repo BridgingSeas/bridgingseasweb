@@ -2,6 +2,7 @@
 	import balloon from '$lib/balloon.png';
 	import teens from '$lib/teens.png';
 	import passion from '$lib/passion.png';
+	import miscreants from '$lib/miscreants.png';
 </script>
 <title>Partners</title>
 <p class="pt-20 pb-20 text-center font-serif text-5xl font-bold">We're working with:</p>
@@ -9,7 +10,7 @@
 <div class="container mb-20 grid grid-cols-1  pt-20 xl:grid-cols-4">
 	<div />
 	<div class="pt-10 xl:pt-0 ">
-		<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={balloon} />
+		<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={miscreants} />
 	</div>
 
 	<div>

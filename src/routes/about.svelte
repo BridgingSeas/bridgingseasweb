@@ -83,14 +83,14 @@
 	<div>
 		<img src={tammy} alt="Tammy" height="1000" width="1000" />
 		<p class="pt-4 text-center text-4xl">Tammy Zhao</p>
-		<p class="pt-4 pb-2 text-center text-xl">Graphic Design</p>
+		<p class="pt-4 pb-2 text-center text-xl">Co-Director of Graphic Design</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={vivian} alt="Vivian" />
 		<p class="pt-4 text-center text-4xl">Vivian Teo</p>
-		<p class="pt-4 pb-2 text-center text-xl">Graphic Design</p>
+		<p class="pt-4 pb-2 text-center text-xl">Co-Director of Graphic Design</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 </div>
@@ -99,7 +99,7 @@
 	<div>
 		<img src={laura} alt="Laura" height="1000" width="1000" />
 		<p class="pt-4 text-center text-4xl">Laura Xia</p>
-		<p class="pt-4 pb-2 text-center text-xl">Chinese Outreach</p>
+		<p class="pt-4 pb-2 text-center text-xl">Director of Chinese Outreach</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
@@ -107,7 +107,7 @@
 		<img src={jina} alt="Jina" height="1000" width="1000" />
 		<p class="pt-4 text-center text-4xl">Jina Koh</p>
 		<p class="pt-4 pb-2 text-center text-xl">
-			Stuy Chapter Lead
+			Director of Internal Communication
 		</p>
 		<p class="pb-4 text-center text-xl">
 			Senior at Stuyvesant High School
