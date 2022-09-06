@@ -20,8 +20,8 @@
 	/* console.log("hi") */
 </script>
 
-<!DOCTYPE html>
-<html lang="EN">
+
+
 	<head>
 		<title>Bridging Seas</title>
 
@@ -30,7 +30,7 @@
 		<meta name="KeyWords" content="bridgingseas">
 
 	</head>
-</html>
+
 <Hero />
 <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 	<div>
