@@ -37,8 +37,11 @@
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={lauren} alt="lauren" height="1000" width="1000" />
-		<p class="pt-4 pb-4 text-center text-4xl">Lauren Lee</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
+		<p class="pt-4  text-center text-4xl">Lauren Lee</p>
+		<div>
+			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
+			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
+		</div>
 	</div>
 
 	<div>

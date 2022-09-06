@@ -34,7 +34,7 @@
 			<!-- right side / bottom-->
 			<div>
 				<p class="font-bold">Contact Us</p>
-				<a class="hover:text-[#565656]" href="mailto:bridgingseasnyc@gmail.com">bridgingseasnyc@gmail.com</a>
+				<a class="hover:text-[#565656]" href="mailto:bridgingseasnyc@gmail.com"><u>bridgingseasnyc@gmail.com</u></a>
 			</div>
 		</div>
 	</div>
