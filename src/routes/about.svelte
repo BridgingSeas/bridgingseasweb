@@ -40,20 +40,26 @@
 		<p class="pt-4  text-center text-4xl">Lauren Lee</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
-			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
+			<p class="text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
 	<div>
 		<img src={sharon} alt="sharon" height="1000" width="1000" />
-		<p class="pt-4 pb-4 text-center text-4xl">Sharon Liu</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
+		<p class="pt-4 text-center text-4xl">Sharon Liu</p>
+		<div>
+			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
+			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
+		</div>
 	</div>
 
 	<div>
 		<img src={izzy} alt="isabella" />
-		<p class="pt-4 pb-4 text-center text-4xl">Isabella Jia</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Co-Founder</p>
+		<p class="pt-4 text-center text-4xl">Isabella Jia</p>
+		<div>
+			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
+			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
+		</div>
 	</div>
 </div>
 
@@ -66,38 +72,45 @@
 	</div>
 </div>
 
-<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3">
+<div class="container grid grid-cols-1 gap-x-8  xl:grid-cols-3">
 	<div>
 		<img src={ant} alt="Anthony" height="1000" width="1000" />
-		<p class="pt-4 pb-4 text-center text-4xl">Anthony Sun</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / IT & Web Design</p>
+		<p class="pt-4 text-center text-4xl">Anthony Sun</p>
+		<p class="pt-4 pb-2 text-center text-xl">Director of Finance</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={tammy} alt="Tammy" height="1000" width="1000" />
-		<p class="pt-4 pb-4 text-center text-4xl">Tammy Zhao</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Graphic Design</p>
+		<p class="pt-4 text-center text-4xl">Tammy Zhao</p>
+		<p class="pt-4 pb-2 text-center text-xl">Graphic Design</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={vivian} alt="Vivian" />
-		<p class="pt-4 pb-4 text-center text-4xl">Vivian Teo</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Graphic Design</p>
+		<p class="pt-4 text-center text-4xl">Vivian Teo</p>
+		<p class="pt-4 pb-2 text-center text-xl">Graphic Design</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={laura} alt="Laura" height="1000" width="1000" />
-		<p class="pt-4 pb-4 text-center text-4xl">Laura Xia</p>
-		<p class="pt-4 pb-4 text-center text-xl">Senior at Stuyvesant High School / Chinese Outreach</p>
+		<p class="pt-4 text-center text-4xl">Laura Xia</p>
+		<p class="pt-4 pb-2 text-center text-xl">Chinese Outreach</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={jina} alt="Jina" height="1000" width="1000" />
-		<p class="pt-4 pb-4 text-center text-4xl">Jina Koh</p>
-		<p class="pt-4 pb-4 text-center text-xl">
-			Senior at Stuyvesant High School / Stuy Chapter Lead
+		<p class="pt-4 text-center text-4xl">Jina Koh</p>
+		<p class="pt-4 pb-2 text-center text-xl">
+			Stuy Chapter Lead
+		</p>
+		<p class="pb-4 text-center text-xl">
+			Senior at Stuyvesant High School
 		</p>
 	</div>
 
