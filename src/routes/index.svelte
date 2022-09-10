@@ -23,6 +23,7 @@
 
 
 	<head>
+		<meta name="google-site-verification" content="i8PwK0P8Pg3SbvNqm1DQASvL0UBsV2J-uGTlMo3ILJw" />
 		<title>Bridging Seas</title>
 
 		<meta name="description" content="Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora.">
