@@ -22,15 +22,7 @@
 
 
 
-	<head>
-		<meta name="google-site-verification" content="i8PwK0P8Pg3SbvNqm1DQASvL0UBsV2J-uGTlMo3ILJw" />
-		<title>Bridging Seas</title>
 
-		<meta name="description" content="Bridging Seas is a youth-led global organization that aims to unify the Asian diaspora.">
-
-		<meta name="KeyWords" content="bridgingseas">
-
-	</head>
 
 <Hero />
 <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">

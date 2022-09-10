@@ -4,6 +4,7 @@
 	import '../app.css';
 </script>
 
+
 <div class="flex min-h-screen flex-col">
 	<div class="grow bg-[#faf8f6]">
 		<Header />
