@@ -3,7 +3,7 @@
 	import Card from '$lib/components/Card.svelte';
 
 	import group from '$lib/group.png';
-	import sponge from '$lib/sponge.png';
+	import picnic from '$lib/picnic.png';
 
 	import one from '$lib/insta/1.jpeg';
 	import two from '$lib/insta/2.jpeg';
@@ -44,7 +44,7 @@
 <div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
-		<img alt="sponge" src={sponge} />
+		<img alt="picnic" src={picnic} />
 	</div>
 
 	<div class="pt-10 xl:pt-0">
