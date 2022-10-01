@@ -2,7 +2,7 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import Card from '$lib/components/Card.svelte';
 
-	import bridge from '$lib/bridge.png';
+	import group from '$lib/group.png';
 	import sponge from '$lib/sponge.png';
 
 	import one from '$lib/insta/1.jpeg';
@@ -37,7 +37,7 @@
 
 	<div class="pt-10 xl:pt-0">
 		<!-- right / bottom -->
-		<img alt="bridge" src={bridge} />
+		<img alt="group" src={group} />
 	</div>
 </div>
 
