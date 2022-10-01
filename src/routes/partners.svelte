@@ -10,7 +10,9 @@
 <div class="container mb-20 grid grid-cols-1  pt-20 xl:grid-cols-4">
 	<div />
 	<div class="pt-10 xl:pt-0 ">
-		<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={miscreants} />
+		<a href="https://www.miscreants.com/">
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={miscreants} />
+		</a>
 	</div>
 
 	<div>
@@ -21,7 +23,7 @@
 
 		<a href="https://www.miscreants.com/" target="_blank">
 			<div
-				class="mt-10 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:text-base"
+				class="mt-10 max-w-fit rounded-md bg-[#e88073] px-8 py-2  text-[#fffffa] sm:text-base"
 			>
 				Learn More
 			</div>
@@ -34,7 +36,9 @@
 <div class="container mb-20 grid grid-cols-1  pt-20 xl:grid-cols-4">
 	<div />
 	<div class="pt-10 xl:pt-0 ">
-		<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={teens} />
+		<a href="https://linktr.ee/voice4teensproject">
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={teens} />
+		</a>
 	</div>
 
 	<div>
@@ -58,8 +62,10 @@
 <div class="container mb-20 grid grid-cols-1  pt-20 xl:grid-cols-4">
 	<div />
 	<div class="pt-10 xl:pt-0 ">
-		<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={balloon} />
-	</div>
+		<a href="https://linktr.ee/globalinitiative">
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={balloon} />
+		</a>
+		</div>
 
 	<div>
 		<p class="font-serif text-3xl font-bold">Global Initiative</p>
@@ -80,7 +86,10 @@
 <div class="container mb-20 grid grid-cols-1  pt-20 xl:grid-cols-4">
 	<div />
 	<div class="pt-10 xl:pt-0 ">
-		<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={passion} />
+		
+		<a href="https://linktr.ee/AsianPassionProgram">
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={passion} />
+		</a>
 	</div>
 
 	<div>
