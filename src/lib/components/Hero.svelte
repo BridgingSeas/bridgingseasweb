@@ -22,7 +22,7 @@
 	<div>
 		<p class="text-center font-serif text-5xl text-[#fffffa] sm:text-6xl">Bridging Seas</p>
 		<p class="mt-4 text-center font-serif text-2xl text-[#fffffa] sm:text-3xl">
-			Unifying Asian Diaspora
+			Unifying the Asian Diaspora
 		</p>
 
 		<a href="/getinvolved">
