@@ -60,8 +60,8 @@
 </div>
 
 <div class="container grid place-items-center">
-	<p class="text-[50px] font-bold">Our 3 Pillars</p>
-	<p class="pb-5">Hover over each image to learn more!</p>
+	<p class="text-[50px] font-bold font-serif">Our 3 Pillars</p>
+	<p class="pb-5 text-[20px]">Learn More About Our Values</p>
 </div>
 <div class="container mb-20 h-min grid grid-cols-1	gap-y-8 gap-x-8 xl:grid-cols-3">
 	<!-- <div class="grid grid-rows-2 pb-5">
