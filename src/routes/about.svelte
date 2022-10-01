@@ -29,35 +29,35 @@
 <title>About Us</title>
 <div class="flex items-center justify-center pt-10 pb-20 ">
 	<div class="text-center">
-		<p class="pb-5 text-8xl">Our Founders</p>
-		<p class="text-2xl">Meet the people who built Bridging Seas from the ground up.</p>
+		<p class="pb-5 text-8xl font-serif">Our Founders</p>
+		<p class="text-2xl font-semibold">Meet the people who built Bridging Seas from the ground up.</p>
 	</div>
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={lauren} alt="lauren" height="1000" width="1000" />
-		<p class="pt-4  text-center text-4xl">Lauren Lee</p>
+		<p class="pt-4 font-serif text-center text-4xl">Lauren Lee</p>
 		<div>
-			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
+			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
 			<p class="text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
 	<div>
 		<img src={sharon} alt="sharon" height="1000" width="1000" />
-		<p class="pt-4 text-center text-4xl">Sharon Liu</p>
+		<p class="pt-4 font-serif text-center text-4xl">Sharon Liu</p>
 		<div>
-			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
+			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
 			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
 	<div>
 		<img src={izzy} alt="isabella" />
-		<p class="pt-4 text-center text-4xl">Isabella Jia</p>
+		<p class="pt-4 font-serif text-center text-4xl">Isabella Jia</p>
 		<div>
-			<p class="pt-4 pb-2 text-center text-xl">Co-Founder</p>
+			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
 			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
@@ -67,30 +67,30 @@
 
 <div class="flex items-center justify-center pt-10 pb-20 ">
 	<div class="text-center">
-		<p class="pb-5 text-8xl">Our Directors</p>
-		<p class="text-2xl">Meet the people who keep Bridging Seas awesome.</p>
+		<p class="pb-5 text-8xl font-serif">Our Directors</p>
+		<p class="text-2xl font-semibold">Meet the people who keep Bridging Seas awesome.</p>
 	</div>
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8  xl:grid-cols-3">
 	<div>
 		<img src={ant} alt="Anthony" height="1000" width="1000" />
-		<p class="pt-4 text-center text-4xl">Anthony Sun</p>
-		<p class="pt-4 pb-2 text-center text-xl">Director of Finance</p>
+		<p class="pt-4 font-serif text-center text-4xl">Anthony Sun</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Finance</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={tammy} alt="Tammy" height="1000" width="1000" />
-		<p class="pt-4 text-center text-4xl">Tammy Zhao</p>
-		<p class="pt-4 pb-2 text-center text-xl">Co-Director of Graphic Design</p>
+		<p class="pt-4 font-serif text-center text-4xl">Tammy Zhao</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Co-Director of Graphic Design</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={vivian} alt="Vivian" />
-		<p class="pt-4 text-center text-4xl">Vivian Teo</p>
-		<p class="pt-4 pb-2 text-center text-xl">Co-Director of Graphic Design</p>
+		<p class="pt-4 font-serif text-center text-4xl">Vivian Teo</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Co-Director of Graphic Design</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 </div>
@@ -98,15 +98,15 @@
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
 		<img src={laura} alt="Laura" height="1000" width="1000" />
-		<p class="pt-4 text-center text-4xl">Laura Xia</p>
-		<p class="pt-4 pb-2 text-center text-xl">Director of Chinese Outreach</p>
+		<p class="pt-4 font-serif text-center text-4xl">Laura Xia</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Chinese Outreach</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img src={jina} alt="Jina" height="1000" width="1000" />
-		<p class="pt-4 text-center text-4xl">Jina Koh</p>
-		<p class="pt-4 pb-2 text-center text-xl">
+		<p class="pt-4 font-serif text-center text-4xl">Jina Koh</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">
 			Director of Internal Communication
 		</p>
 		<p class="pb-4 text-center text-xl">
