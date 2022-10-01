@@ -72,7 +72,7 @@
 	</div>
 </div>
 
-<div class="container grid grid-cols-1 gap-x-8  xl:grid-cols-3">
+<div class="container grid grid-cols-1 gap-x-8 xl:pb-16 xl:grid-cols-3">
 	<div>
 		<img src={ant} alt="Anthony" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Anthony Sun</p>

@@ -1,9 +1,10 @@
 <script>
 	import donate from '$lib/donate.png';
+	import conf from '$lib/team/conf.png';
 </script>
 <title>Donate</title>
-<div class="grid grid-cols-1 place-items-center bg-[#ffe2d3] xl:grid-cols-2">
-	<div class="content-center text-center">
+<div class="grid grid-cols-1 place-items-center h-screen  bg-[#ffe2d3] xl:grid-cols-2">
+	<div class="content-center pt-16 pb-16 text-center">
 		<p class="pb-5 font-serif text-5xl sm:text-6xl">Donate</p>
 		<p class="px-20 text-xl">
 			Donations will go towards purchases to help us continue operations. This includes:
@@ -29,5 +30,11 @@
 			</div>
 		</a>
 	</div>
-	<img src={donate} alt="donate" />
+	<div class="container">
+		<img src={conf} alt="conf">
+	</div>
+	
+		
+	
+	
 </div>
