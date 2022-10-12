@@ -1,6 +1,6 @@
 <script>
-	import penpal from '$lib/penpal2.png';
-	import team from '$lib/jointheteam.png';
+	import penpal from '$lib/penpal2.png?w=500;700;900;1200;2000&webp&srcset';
+	import team from '$lib/jointheteam.png?w=500;700;900;1200;2000&webp&srcset';
 </script>
 <title>Get Involved</title>
 <div class=" bg-[#FEE2D4] pt-20 pb-20">
@@ -24,14 +24,14 @@
 
 		<div class="grid justify-center pt-10 xl:pt-0">
 			<!-- right / bottom -->
-			<img alt="penpal" src={penpal} height="400" width="400" />
+			<img alt="penpal" type="image/webp" srcset={penpal} height="400" width="400" />
 		</div>
 	</div>
 </div>
 <div class=" bg-[#e3d1cc] pt-20 pb-20">
 	<div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 		<div class="grid justify-center pt-10 xl:pt-0">
-			<img alt="penpal" src={team} height="400" width="400" />
+			<img alt="penpal" type="image/webp" srcset={team} height="400" width="400" />
 		</div>
 		<div>
 			<p class="text-center font-serif text-7xl font-bold">Join the team</p>

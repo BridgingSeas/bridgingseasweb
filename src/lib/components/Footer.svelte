@@ -1,9 +1,9 @@
 <script>
-	import fb from '$lib/fb.png';
-	import lk from '$lib/lk.png';
-	import twitter from '$lib/twitter.png';
-	import insta from '$lib/insta.png';
-	import tiktok from '$lib/tiktok.png';
+	import fb from '$lib/fb.png?w=500;700;900;1200;2000&webp&srcset';
+	import lk from '$lib/lk.png?w=500;700;900;1200;2000&webp&srcset';
+	import twitter from '$lib/twitter.png?w=500;700;900;1200;2000&webp&srcset';
+	import insta from '$lib/insta.png?w=500;700;900;1200;2000&webp&srcset';
+	import tiktok from '$lib/tiktok.png?w=500;700;900;1200;2000&webp&srcset';
 </script>
 
 <div class="w-full bg-[#ffc8b6] py-10 px-8">
@@ -12,20 +12,20 @@
 			<!-- left side / top-->
 			<div class="flex gap-4">
 				<a href="https://www.instagram.com/bridgingseas/"
-					><img src={insta} alt="instagram" class="h-12 w-12" /></a
+					><img type="image/webp" srcset={insta} alt="instagram" class="h-12 w-12" /></a
 				>
 				<a href="https://www.facebook.com/bridgingseas/"
-					><img src={fb} alt="facebook" class="h-12 w-12" /></a
+					><img type="image/webp" srcset={fb} alt="facebook" class="h-12 w-12" /></a
 				>
 				<a href="https://twitter.com/BridgingSeas"
-					><img src={twitter} alt="twitter" class="h-12 w-12" /></a
+					><img type="image/webp" srcset={twitter} alt="twitter" class="h-12 w-12" /></a
 				>
 				<a href="https://www.linkedin.com/company/bridging-seas/"
-					><img src={lk} alt="linkedln" class="h-12 w-12" /></a
+					><img type="image/webp" srcset={lk} alt="linkedln" class="h-12 w-12" /></a
 				>
 
 				<a href="https://www.tiktok.com/@bridgingseas?"
-					><img src={tiktok} alt="tiktok" class="h-12 w-12" /></a
+					><img type="image/webp" srcset={tiktok} alt="tiktok" class="h-12 w-12" /></a
 				>
 			</div>
 		</div>

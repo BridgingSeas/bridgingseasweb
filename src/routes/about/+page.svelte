@@ -1,31 +1,14 @@
 <script>
-	import lauren from '$lib/team/lauren.jpeg';
-	import sharon from '$lib/team/sharon.png';
-	import izzy from '$lib/team/izzy.jpeg';
-	import ant from '$lib/team/ant.png';
-	import jina from '$lib/team/jina.jpeg';
-	import laura from '$lib/team/laura.jpeg';
-	import tammy from '$lib/team/tammy.jpeg';
-	import vivian from '$lib/team/vivian.jpeg';
+	import lauren from '$lib/team/lauren.jpeg?w=500;700;900;1200;2000&webp&srcset';
+	import sharon from '$lib/team/sharon.png?w=500;700;900;1200;2000&webp&srcset';
+	import izzy from '$lib/team/izzy.jpeg?w=500;700;900;1200;2000&webp&srcset';
+	import ant from '$lib/team/ant.png?w=500;700;900;1200;2000&webp&srcset';
+	import jina from '$lib/team/jina.jpeg?w=500;700;900;1200;2000&webp&srcset';
+	import laura from '$lib/team/laura.jpeg?w=500;700;900;1200;2000&webp&srcset';
+	import tammy from '$lib/team/tammy.jpeg?w=500;700;900;1200;2000&webp&srcset';
+	import vivian from '$lib/team/vivian.jpeg?w=500;700;900;1200;2000&webp&srcset';
 </script>
-<!--
-<div class="flex min-h-[50vh] items-center justify-center bg-[#F6CAB9] bg-cover bg-center">
-	<div>
-		<p class="text-center font-serif text-5xl text-[#fffffa] sm:text-6xl">Mission Statement</p>
-		<p class="mt-4 text-center font-serif text-2xl text-[#fffffa] sm:text-3xl">
-			Unifying Asian Diaspora
-		</p>
 
-		<a href="/getinvolved">
-			<div
-				class="mx-auto mt-10 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-20 sm:text-base"
-			>
-				Get Involved
-			</div>
-		</a>
-	</div>
-</div>
--->
 <title>About Us</title>
 <div class="bg-[#FDE1D5]">
 	<div class="container flex items-center justify-center pt-10 pb-20 ">
@@ -46,7 +29,7 @@
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
-		<img src={lauren} alt="lauren" height="1000" width="1000" />
+		<img type="image/webp" srcset={lauren} alt="lauren" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Lauren Lee</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
@@ -55,7 +38,7 @@
 	</div>
 
 	<div>
-		<img src={sharon} alt="sharon" height="1000" width="1000" />
+		<img type="image/webp" srcset={sharon} alt="sharon" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Sharon Liu</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
@@ -64,7 +47,7 @@
 	</div>
 
 	<div>
-		<img src={izzy} alt="isabella" />
+		<img type="image/webp" srcset={izzy} alt="isabella" />
 		<p class="pt-4 font-serif text-center text-4xl">Isabella Jia</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
@@ -84,21 +67,21 @@
 
 <div class="container grid grid-cols-1 gap-x-8 xl:pb-16 xl:grid-cols-3">
 	<div>
-		<img src={ant} alt="Anthony" height="1000" width="1000" />
+		<img type="image/webp" srcset={ant} alt="Anthony" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Anthony Sun</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Finance</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img src={tammy} alt="Tammy" height="1000" width="1000" />
+		<img type="image/webp" srcset={tammy} alt="Tammy" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Tammy Zhao</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Co-Director of Graphic Design</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img src={vivian} alt="Vivian" />
+		<img type="image/webp" srcset={vivian} alt="Vivian" />
 		<p class="pt-4 font-serif text-center text-4xl">Vivian Teo</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Co-Director of Graphic Design</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
@@ -107,14 +90,14 @@
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
-		<img src={laura} alt="Laura" height="1000" width="1000" />
+		<img type="image/webp" srcset={laura} alt="Laura" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Laura Xia</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Chinese Outreach</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img src={jina} alt="Jina" height="1000" width="1000" />
+		<img type="image/webp" srcset={jina} alt="Jina" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Jina Koh</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">
 			Director of Internal Communication
