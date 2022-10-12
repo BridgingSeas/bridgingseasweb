@@ -1,12 +1,19 @@
 <script>
+    /**
+	 * @type {any}
+	 */
     export let image;
+    /**
+	 * @type {string}
+	 */
+     export let alt;
     
 </script>
 
 <div class="flip-card bg-transparent ">
     <div class="flip-card-inner">
         <div class="flip-card-front">
-            <img src="{image}"/>
+            <img type="image/webp" alt={alt} srcset={image}/>
         </div>
         <div class="flip-card-back grid pr-8 pl-8 place-content-center">
             <slot>

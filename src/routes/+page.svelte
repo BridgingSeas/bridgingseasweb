@@ -2,16 +2,12 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import Card from '$lib/components/Card.svelte';
 
-	import group from '$lib/group.png';
-	import picnic from '$lib/picnic.png';
+	import group from '$lib/group.png?w=500;700;900;1200;2000&webp&srcset';
+	import picnic from '$lib/picnic.png?w=500;700;900;1200;2000&webp&srcset';
 
-	import one from '$lib/insta/1.jpeg';
-	import two from '$lib/insta/2.jpeg';
-	import three from '$lib/insta/3.jpeg';
-	
-	import unity from '$lib/unity.png';
-	import app from '$lib/appreciation.png';
-	import culture from '$lib/culture.png';
+	import unity from '$lib/unity.png?w=500;700;900;1200;2000&webp&srcset';
+	import app from '$lib/appreciation.png?w=500;700;900;1200;2000&webp&srcset';
+	import culture from '$lib/culture.png?w=500;700;900;1200;2000&webp&srcset';
 
 	/* fetch('https://graph.instagram.com/v14.0/access_token=IGQVJYdDlpa2hmUXR6WHJmb1UxRzdyQ1I3aDAybXNtUG05NFV1Q25VR2VjemxWQmNCeWk3anNXODVEMnFldC1XSmU5dU1sQ0h3SkhLWnNERjdrR1VyRmZA1U2ttNWdNeXc0WVdFZA1dHY2dzVzhKZAWpFYQZDZD')
   .then(response => response.json())
@@ -37,14 +33,14 @@
 
 	<div class="pt-10 xl:pt-0">
 		<!-- right / bottom -->
-		<img alt="group" src={group} />
+		<img type="image/webp" alt="group" srcset={group} />
 	</div>
 </div>
 
 <div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
-		<img alt="picnic" src={picnic} />
+		<img type="image/webp" alt="picnic" srcset={picnic} />
 	</div>
 
 	<div class="pt-10 xl:pt-0">
@@ -71,19 +67,19 @@
 		</p>
 	</div> -->
 	<div class="">
-		<Card image={culture}  --bgcolor="rgb(255, 192, 180)">
+		<Card alt="culture" image={culture}  --bgcolor="rgb(255, 192, 180)">
 			<p class="text-[30px] font-bold ">Culture</p>
 			<p class="text-[20px]">Bridging Seas recognizes that <strong>culture</strong> is the core of who we are and connects us with those who share the same <strong>culture</strong>. Tapping into the <strong>culture</strong> of our youth, we encourage students from around the world to embrace the diversity of their <strong>cultural</strong> roots through pen-palling.</p>
 		</Card>
 	</div>
 	<div>
-		<Card image={app} --bgcolor="rgb(255, 226, 211)">
+		<Card alt="appreciation" image={app} --bgcolor="rgb(255, 226, 211)">
 			<p class="text-[30px] font-bold ">Appreciation</p>
 			<p class="text-[20px]">As youth ourselves, the Bridging Seas team offers a safe platform for students to not only <strong>appreciate</strong> their culture through exchange with students who share the same roots, but also a place to discover how their culture is diverse, adaptable, and eternally changing.</p>
 		</Card>
 	</div>
 	<div>
-		<Card image={unity} --bgcolor="rgb(255, 192, 180)">
+		<Card alt="community" image={unity} --bgcolor="rgb(255, 192, 180)">
 			<p class="text-[30px] font-bold ">Community</p>
 			<p class="text-[20px]">Bridging Sea’s foremost mission is to foster a <strong>community</strong> for our students to feel comfortable in sharing their culture. Through monthly meetings and <strong>community</strong> corners, we aim to make our students feel supported and heard in our <strong>community</strong> as they grow in their cultural exploration.</p>
 		</Card>
