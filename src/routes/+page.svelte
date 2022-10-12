@@ -37,14 +37,14 @@
 
 	<div class="pt-10 xl:pt-0">
 		<!-- right / bottom -->
-		<img alt="group" src={group} />
+		<img type="image/webp" alt="group" srcset={group} />
 	</div>
 </div>
 
 <div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
-		<img alt="picnic" src={picnic} />
+		<img type="image/webp" alt="picnic" srcset={picnic} />
 	</div>
 
 	<div class="pt-10 xl:pt-0">
@@ -71,19 +71,19 @@
 		</p>
 	</div> -->
 	<div class="">
-		<Card image={culture}  --bgcolor="rgb(255, 192, 180)">
+		<Card alt="culture" image={culture}  --bgcolor="rgb(255, 192, 180)">
 			<p class="text-[30px] font-bold ">Culture</p>
 			<p class="text-[20px]">Bridging Seas recognizes that <strong>culture</strong> is the core of who we are and connects us with those who share the same <strong>culture</strong>. Tapping into the <strong>culture</strong> of our youth, we encourage students from around the world to embrace the diversity of their <strong>cultural</strong> roots through pen-palling.</p>
 		</Card>
 	</div>
 	<div>
-		<Card image={app} --bgcolor="rgb(255, 226, 211)">
+		<Card alt="appreciation" image={app} --bgcolor="rgb(255, 226, 211)">
 			<p class="text-[30px] font-bold ">Appreciation</p>
 			<p class="text-[20px]">As youth ourselves, the Bridging Seas team offers a safe platform for students to not only <strong>appreciate</strong> their culture through exchange with students who share the same roots, but also a place to discover how their culture is diverse, adaptable, and eternally changing.</p>
 		</Card>
 	</div>
 	<div>
-		<Card image={unity} --bgcolor="rgb(255, 192, 180)">
+		<Card alt="community" image={unity} --bgcolor="rgb(255, 192, 180)">
 			<p class="text-[30px] font-bold ">Community</p>
 			<p class="text-[20px]">Bridging Sea’s foremost mission is to foster a <strong>community</strong> for our students to feel comfortable in sharing their culture. Through monthly meetings and <strong>community</strong> corners, we aim to make our students feel supported and heard in our <strong>community</strong> as they grow in their cultural exploration.</p>
 		</Card>
