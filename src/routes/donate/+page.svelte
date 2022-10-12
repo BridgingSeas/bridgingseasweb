@@ -1,6 +1,5 @@
 <script>
-	import donate from '$lib/donate.png';
-	import conf from '$lib/team/conf.png';
+	import conf from '$lib/team/conf.png?w=500;700;900;1200;2000&webp&srcset';
 </script>
 <title>Donate</title>
 <div class="grid grid-cols-1 place-items-center h-screen  bg-[#ffe2d3] xl:grid-cols-2">
@@ -31,7 +30,7 @@
 		</a>
 	</div>
 	<div class="container">
-		<img src={conf} alt="conf">
+		<img type="image/webp" srcset={conf} alt="conf">
 	</div>
 	
 		

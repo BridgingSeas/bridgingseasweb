@@ -1,8 +1,8 @@
 <script>
-	import balloon from '$lib/balloon.png';
-	import teens from '$lib/teens.png';
-	import passion from '$lib/passion.png';
-	import miscreants from '$lib/miscreants.png';
+	import balloon from '$lib/balloon.png?w=500;700;900;1200;2000&webp&srcset';
+	import teens from '$lib/teens.png?w=500;700;900;1200;2000&webp&srcset';
+	import passion from '$lib/passion.png?w=500;700;900;1200;2000&webp&srcset';
+	import miscreants from '$lib/miscreants.png?w=500;700;900;1200;2000&webp&srcset';
 </script>
 <title>Partners</title>
 <p class="pt-20 pb-20 text-center font-serif text-5xl font-bold">We're working with:</p>
@@ -11,7 +11,7 @@
 	<div />
 	<div class="pt-10 xl:pt-0 ">
 		<a href="https://www.miscreants.com/">
-			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={miscreants} />
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" type="image/webp" srcset={miscreants} />
 		</a>
 	</div>
 
@@ -37,7 +37,7 @@
 	<div />
 	<div class="pt-10 xl:pt-0 ">
 		<a href="https://linktr.ee/voice4teensproject">
-			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={teens} />
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" type="image/webp" srcset={teens} />
 		</a>
 	</div>
 
@@ -63,7 +63,7 @@
 	<div />
 	<div class="pt-10 xl:pt-0 ">
 		<a href="https://linktr.ee/globalinitiative">
-			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={balloon} />
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" type="image/webp" srcset={balloon} />
 		</a>
 		</div>
 
@@ -88,7 +88,7 @@
 	<div class="pt-10 xl:pt-0 ">
 		
 		<a href="https://linktr.ee/AsianPassionProgram">
-			<img class="mx-24" align="right" width="200" height="200" alt="bridge" src={passion} />
+			<img class="mx-24" align="right" width="200" height="200" alt="bridge" type="image/webp" srcset={passion} />
 		</a>
 	</div>
 
