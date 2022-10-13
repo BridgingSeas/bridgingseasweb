@@ -1,9 +1,9 @@
 <script>
-	import fb from '$lib/fb.png?w=500;700;900;1200;2000&webp&srcset';
-	import lk from '$lib/lk.png?w=500;700;900;1200;2000&webp&srcset';
-	import twitter from '$lib/twitter.png?w=500;700;900;1200;2000&webp&srcset';
-	import insta from '$lib/insta.png?w=500;700;900;1200;2000&webp&srcset';
-	import tiktok from '$lib/tiktok.png?w=500;700;900;1200;2000&webp&srcset';
+	import fb from '$lib/fb.png?w=500;700;896&webp&srcset';
+	import lk from '$lib/lk.png?w=500;700;896&webp&srcset';
+	import twitter from '$lib/twitter.png?w=500;700;896&webp&srcset';
+	import insta from '$lib/insta.png?w=500;700;896&webp&srcset';
+	import tiktok from '$lib/tiktok.png?w=500;700;896&webp&srcset';
 </script>
 
 <div class="w-full bg-[#ffc8b6] py-10 px-8">
