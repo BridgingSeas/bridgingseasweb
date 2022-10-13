@@ -1,5 +1,5 @@
 <script>
-	import conf from '$lib/team/conf.png?w=500;700;900;1200;2000&webp&srcset';
+	import conf from '$lib/team/conf.png?w=500;700;896&webp&srcset';
 </script>
 <title>Donate</title>
 <div class="grid grid-cols-1 place-items-center h-screen  bg-[#ffe2d3] xl:grid-cols-2">

@@ -2,12 +2,12 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import Card from '$lib/components/Card.svelte';
 
-	import group from '$lib/group.png?w=500;700;900;1200;2000&webp&srcset';
-	import picnic from '$lib/picnic.png?w=500;700;900;1200;2000&webp&srcset';
+	import group from '$lib/group.png?w=500;700;896&webp&srcset';
+	import picnic from '$lib/picnic.png?w=500;700;896&webp&srcset';
 
-	import unity from '$lib/unity.png?w=500;700;900;1200;2000&webp&srcset';
-	import app from '$lib/appreciation.png?w=500;700;900;1200;2000&webp&srcset';
-	import culture from '$lib/culture.png?w=500;700;900;1200;2000&webp&srcset';
+	import unity from '$lib/unity.png?w=500;700;896&webp&srcset';
+	import app from '$lib/appreciation.png?w=500;700;896&webp&srcset';
+	import culture from '$lib/culture.png?w=500;700;896&webp&srcset';
 
 	/* fetch('https://graph.instagram.com/v14.0/access_token=IGQVJYdDlpa2hmUXR6WHJmb1UxRzdyQ1I3aDAybXNtUG05NFV1Q25VR2VjemxWQmNCeWk3anNXODVEMnFldC1XSmU5dU1sQ0h3SkhLWnNERjdrR1VyRmZA1U2ttNWdNeXc0WVdFZA1dHY2dzVzhKZAWpFYQZDZD')
   .then(response => response.json())

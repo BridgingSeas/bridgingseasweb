@@ -1,6 +1,6 @@
 <script>
-	import penpal from '$lib/penpal2.png?w=500;700;900;1200;2000&webp&srcset';
-	import team from '$lib/jointheteam.png?w=500;700;900;1200;2000&webp&srcset';
+	import penpal from '$lib/penpal2.png?w=500;700;896&webp&srcset';
+	import team from '$lib/jointheteam.png?w=500;700;896&webp&srcset';
 </script>
 <title>Get Involved</title>
 <div class=" bg-[#FEE2D4] pt-20 pb-20">

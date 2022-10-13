@@ -1,12 +1,12 @@
 <script>
-	import lauren from '$lib/team/lauren.jpeg?w=500;700;900;1200;2000&webp&srcset';
-	import sharon from '$lib/team/sharon.png?w=500;700;900;1200;2000&webp&srcset';
-	import izzy from '$lib/team/izzy.jpeg?w=500;700;900;1200;2000&webp&srcset';
-	import ant from '$lib/team/ant.png?w=500;700;900;1200;2000&webp&srcset';
-	import jina from '$lib/team/jina.jpeg?w=500;700;900;1200;2000&webp&srcset';
-	import laura from '$lib/team/laura.jpeg?w=500;700;900;1200;2000&webp&srcset';
-	import tammy from '$lib/team/tammy.jpeg?w=500;700;900;1200;2000&webp&srcset';
-	import vivian from '$lib/team/vivian.jpeg?w=500;700;900;1200;2000&webp&srcset';
+	import lauren from '$lib/team/lauren.jpeg?w=500;700;896&webp&srcset';
+	import sharon from '$lib/team/sharon.png?w=500;700;896&webp&srcset';
+	import izzy from '$lib/team/izzy.jpeg?w=500;700;896&webp&srcset';
+	import ant from '$lib/team/ant.png?w=500;700;896&webp&srcset';
+	import jina from '$lib/team/jina.jpeg?w=500;700;896&webp&srcset';
+	import laura from '$lib/team/laura.jpeg?w=500;700;896&webp&srcset';
+	import tammy from '$lib/team/tammy.jpeg?w=500;700;896&webp&srcset';
+	import vivian from '$lib/team/vivian.jpeg?w=500;700;896&webp&srcset';
 </script>
 
 <title>About Us</title>
