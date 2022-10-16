@@ -1,5 +1,6 @@
 <script>
-	import conf from '$lib/team/conf.png?w=500;700;896&webp&srcset';
+	// @ts-nocheck
+	import conf from '$lib/img/photos/conf.png?w=500;700;896&webp&srcset';
 </script>
 <title>Donate</title>
 <div class="grid grid-cols-1 place-items-center h-screen  bg-[#ffe2d3] xl:grid-cols-2">

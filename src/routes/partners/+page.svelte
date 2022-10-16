@@ -1,8 +1,8 @@
 <script>
-	import balloon from '$lib/balloon.png?w=500;700;896&webp&srcset';
-	import teens from '$lib/teens.png?w=500;700;896&webp&srcset';
-	import passion from '$lib/passion.png?w=500;700;896&webp&srcset';
-	import miscreants from '$lib/miscreants.png?w=500;700;896&webp&srcset';
+	import balloon from '$lib/img/logos/partners/balloon.png?w=500;700;896&webp&srcset';
+	import teens from '$lib/img/logos/partners/teens.png?w=500;700;896&webp&srcset';
+	import passion from '$lib/img/logos/partners/passion.png?w=500;700;896&webp&srcset';
+	import miscreants from '$lib/img/logos/partners/miscreants.png?w=500;700;896&webp&srcset';
 </script>
 <title>Partners</title>
 <p class="pt-20 pb-20 text-center font-serif text-5xl font-bold">We're working with:</p>
