@@ -1,5 +1,5 @@
 <div
-	class="flex min-h-[50vh] items-center justify-center bg-[url('$lib/waves-min.webp')] bg-cover bg-center"
+	class="flex min-h-[50vh] items-center justify-center bg-[url('$lib/img/graphics/waves-min.webp')] bg-cover bg-center"
 >
 	<div>
 		<p class="text-center font-serif text-5xl text-[#fffffa] sm:text-6xl">Bridging Seas</p>
