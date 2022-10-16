@@ -6,7 +6,8 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ['Nunito', ...defaultTheme.fontFamily.sans]
+				sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+				serif: ['Alegreya', ...defaultTheme.fontFamily.serif]
 			},
 			backgroundImage: {
 				wave: "url('$lib/waves.png')"
