@@ -1,13 +1,6 @@
 <script>
-    /**
-	 * @type {any}
-	 */
-    export let image;
-    /**
-	 * @type {string}
-	 */
-     export let alt;
-    
+  export let image;
+  export let alt;
 </script>
 
 <div class="flip-card bg-transparent ">
