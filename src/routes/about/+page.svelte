@@ -7,7 +7,7 @@
 	import jina from '$lib/img/team/jina.jpeg?w=500;700;896&webp&srcset';
 	import laura from '$lib/img/team/laura.jpeg?w=500;700;896&webp&srcset';
 	import tammy from '$lib/img/team/tammy.jpeg?w=500;700;896&webp&srcset';
-	import vivian from '$lib/img/team/vivian.jpeg?w=500;700;896&webp&srcset';
+	import vivian from '$lib/img/team/vivan.jpeg?w=4000;700;896&webp&srcset';
 </script>
 
 <title>About Us</title>

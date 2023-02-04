@@ -63,19 +63,19 @@
 	<div class="">
 		<Card alt="culture" image={culture}  --bgcolor="rgb(255, 192, 180)">
 			<p class="text-[30px] font-bold ">Culture</p>
-			<p class="text-[20px]">Bridging Seas recognizes that <strong>culture</strong> is the core of who we are and connects us with those who share the same <strong>culture</strong>. Tapping into the <strong>culture</strong> of our youth, we encourage students from around the world to embrace the diversity of their <strong>cultural</strong> roots through pen-palling.</p>
+			<p class="text-[1vw]">Bridging Seas recognizes that <strong>culture</strong> is the core of who we are and connects us with those who share the same <strong>culture</strong>. Tapping into the <strong>culture</strong> of our youth, we encourage students from around the world to embrace the diversity of their <strong>cultural</strong> roots through pen-palling.</p>
 		</Card>
 	</div>
 	<div>
 		<Card alt="appreciation" image={app} --bgcolor="rgb(255, 226, 211)">
 			<p class="text-[30px] font-bold ">Appreciation</p>
-			<p class="text-[20px]">As youth ourselves, the Bridging Seas team offers a safe platform for students to not only <strong>appreciate</strong> their culture through exchange with students who share the same roots, but also a place to discover how their culture is diverse, adaptable, and eternally changing.</p>
+			<p class="text-[1vw]">As youth ourselves, the Bridging Seas team offers a safe platform for students to not only <strong>appreciate</strong> their culture through exchange with students who share the same roots, but also a place to discover how their culture is diverse, adaptable, and eternally changing.</p>
 		</Card>
 	</div>
 	<div>
 		<Card alt="community" image={unity} --bgcolor="rgb(255, 192, 180)">
 			<p class="text-[30px] font-bold ">Community</p>
-			<p class="text-[20px]">Bridging Sea’s foremost mission is to foster a <strong>community</strong> for our students to feel comfortable in sharing their culture. Through monthly meetings and <strong>community</strong> corners, we aim to make our students feel supported and heard in our <strong>community</strong> as they grow in their cultural exploration.</p>
+			<p class="text-[1vw]">Bridging Sea’s foremost mission is to foster a <strong>community</strong> for our students to feel comfortable in sharing their culture. Through monthly meetings and <strong>community</strong> corners, we aim to make our students feel supported and heard in our <strong>community</strong> as they grow in their cultural exploration.</p>
 		</Card>
 	</div>
 
@@ -108,13 +108,13 @@
 
 		<div class="grid grid-cols-1 xl:grid-cols-3 place-items-center gap-2">
 			<a href="https://www.instagram.com/p/CiAltINuA0z/?utm_source=ig_web_copy_link">
-				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/610539244682739762/1016548386301825076/304659950_1255982948562908_308568857709073069_n.jpg"  alt="1"/>
+				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/536643425827815424/1071250444208324669/326198208_1228542168081391_5097486918071226158_n.jpg"  alt="1"/>
 			</a>
 			<a href="https://www.instagram.com/p/Ch2X5mqOPcq/?utm_source=ig_web_copy_link">
-				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/896493938133839913/1016524906546090005/301986825_826826022061659_5008355178635619332_n.jpg" alt="2"/>
+				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/536643425827815424/1071251322101321788/326417728_595969302368160_5222808734321258564_n.jpg" alt="2"/>
 			</a>
 			<a href="https://www.instagram.com/p/ChsJnw2Oq_K/?utm_source=ig_web_copy_link">
-				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/896493938133839913/1016525247199068250/301240115_809493036729547_4152696001059636590_n.jpg" alt="3"/>
+				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/536643425827815424/1071251322487181402/325295646_1597065234097929_5878692940469965849_n.jpg" alt="3"/>
 			</a>
 			
 		</div>
