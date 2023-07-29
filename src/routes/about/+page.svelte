@@ -34,7 +34,6 @@
 		<p class="pt-4 font-serif text-center text-4xl">Lauren Lee</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
-			<p class="text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
@@ -43,7 +42,6 @@
 		<p class="pt-4 font-serif text-center text-4xl">Sharon Liu</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
-			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
@@ -52,7 +50,6 @@
 		<p class="pt-4 font-serif text-center text-4xl">Isabella Jia</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
-			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 </div>
