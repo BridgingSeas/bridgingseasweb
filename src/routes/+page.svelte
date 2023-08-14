@@ -9,7 +9,7 @@
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
 	import culture from '$lib/img/graphics/culture.png?w=500;700;896&webp&srcset';
 	import chart from '$lib/img/graphics/chart.jpg?w=500;700;896&webp&srcset';
-	import pie from '$lib/img/graphics/pie.jpg?w=500;700;896&webp&srcset';
+	import pie from '$lib/img/graphics/pie.jpg?w=500;850;896&webp&srcset';
 
 </script>
 
