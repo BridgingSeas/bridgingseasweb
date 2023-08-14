@@ -53,21 +53,6 @@
 </div>
 
 <div class="container grid place-items-center">
-	<p class="text-[50px] font-bold font-serif">Our Impact</p>
-</div>
-
-<div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
-	<div>
-		<!-- left / top -->
-		<img type="image/webp" alt="chart" srcset={chart} />
-	</div>
-	<div>
-	<!-- right / top -->
-	<img type="image/webp" alt="pie" srcset={pie} />
-	</div>
-</div>
-
-<div class="container grid place-items-center">
 	<p class="text-[50px] font-bold font-serif">Our 3 Pillars</p>
 	<p class="pb-5 text-[20px]">Learn More About Our Values</p>
 </div>
