@@ -7,6 +7,7 @@
 	import shahana from '$lib/img/team/shahana.png?w=500;700;896&webp&srcset';
 	import mai from '$lib/img/team/mai.png?w=500;700;896&webp&srcset';
 	import raymond from '$lib/img/team/raymond.png?w=500;700;896&webp&srcset';
+	import jessica from '$lib/img/team/jessica.png?w=500;700;896&webp&srcset';
 </script>
 
 <title>About Us</title>
@@ -72,6 +73,22 @@
 	</div>
 
 	<div>
+		<img type="image/webp" srcset={jessica} alt="Jessica" height="1000" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Jessica Liu</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Executive Director</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
+	</div>
+</div>
+
+<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
+	<div>
+		<img type="image/webp" srcset={raymond} alt="Raymond" height="1000" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Raymond Lin</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Technology</p>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
+	</div>
+
+	<div>
 		<img type="image/webp" srcset={jenny} alt="Jenny" height="700" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Jenny Tan</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Social Media</p>
@@ -82,15 +99,6 @@
 		<img type="image/webp" srcset={shahana} alt="Shahana" height="1000" width="1000"/>
 		<p class="pt-4 font-serif text-center text-4xl">Shahana Ferdous</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Bangladeshi Outreach</p>
-		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
-	</div>
-</div>
-
-<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
-	<div>
-		<img type="image/webp" srcset={raymond} alt="Raymond" height="1000" width="1000" />
-		<p class="pt-4 font-serif text-center text-4xl">Raymond Lin</p>
-		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Technology</p>
 		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
