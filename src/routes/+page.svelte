@@ -50,6 +50,10 @@
 	</div>
 </div>
 
+<div class="container grid place-items-center">
+	<p class="text-[50px] font-bold font-serif">Our Impact</p>
+</div>
+
 <div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
