@@ -8,6 +8,7 @@
 	import unity from '$lib/img/graphics/unity.png?w=500;700;896&webp&srcset';
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
 	import culture from '$lib/img/graphics/culture.png?w=500;700;896&webp&srcset';
+	import chart from '$lib/img/graphics/chart.jpg?w=500;700;896&webp&srcset';
 </script>
 
 
@@ -46,6 +47,17 @@
 		<p class="pt-4 text-lg">
 			Want to make friends across the world? We got you. Bridging Seas offers a pen pal program. Asian students all over the word regardless of nationality will be matched with a pen pal of the same ethnicity. Make new friends and get to know a world outside of your own!
 		</p>
+	</div>
+</div>
+
+<div class="container grid place-items-center">
+	<p class="text-[50px] font-bold font-serif">Our Impact</p>
+</div>
+
+<div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
+	<div>
+		<!-- left / top -->
+		<img type="image/webp" alt="chart" srcset={chart} />
 	</div>
 </div>
 
