@@ -3,11 +3,10 @@
 	import lauren from '$lib/img/team/lauren.jpeg?w=500;700;896&webp&srcset';
 	import sharon from '$lib/img/team/sharon.png?w=500;700;896&webp&srcset';
 	import izzy from '$lib/img/team/izzy.jpeg?w=500;700;896&webp&srcset';
-	import ant from '$lib/img/team/ant.png?w=500;700;896&webp&srcset';
-	import jina from '$lib/img/team/jina.jpeg?w=500;700;896&webp&srcset';
-	import laura from '$lib/img/team/laura.jpeg?w=500;700;896&webp&srcset';
-	import tammy from '$lib/img/team/tammy.jpeg?w=500;700;896&webp&srcset';
-	import vivian from '$lib/img/team/vivan.jpeg?w=4000;700;896&webp&srcset';
+	import jenny from '$lib/img/team/jenny.png?w=500;700;896&webp&srcset';
+	import shahana from '$lib/img/team/shahana.png?w=500;700;896&webp&srcset';
+	import mai from '$lib/img/team/mai.png?w=500;700;896&webp&srcset';
+	import raymond from '$lib/img/team/raymond.png?w=500;700;896&webp&srcset';
 </script>
 
 <title>About Us</title>
@@ -34,7 +33,6 @@
 		<p class="pt-4 font-serif text-center text-4xl">Lauren Lee</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
-			<p class="text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
@@ -43,7 +41,6 @@
 		<p class="pt-4 font-serif text-center text-4xl">Sharon Liu</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
-			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 
@@ -52,7 +49,6 @@
 		<p class="pt-4 font-serif text-center text-4xl">Isabella Jia</p>
 		<div>
 			<p class="pt-4 pb-2 text-center text-xl font-semibold">Co-Founder</p>
-			<p class=" text-center text-xl">Senior at Stuyvesant High School</p>
 		</div>
 	</div>
 </div>
@@ -67,45 +63,35 @@
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:pb-16 xl:grid-cols-3">
+
 	<div>
-		<img type="image/webp" srcset={ant} alt="Anthony" height="1000" width="1000" />
-		<p class="pt-4 font-serif text-center text-4xl">Anthony Sun</p>
-		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Finance</p>
-		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
+		<img type="image/webp" srcset={mai} alt="Mai" height="600" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Mai Tran</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Executive Director</p>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img type="image/webp" srcset={tammy} alt="Tammy" height="1000" width="1000" />
-		<p class="pt-4 font-serif text-center text-4xl">Tammy Zhao</p>
-		<p class="pt-4 font-semibold pb-2 text-center text-xl">Co-Director of Graphic Design</p>
-		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
+		<img type="image/webp" srcset={jenny} alt="Jenny" height="700" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Jenny Tan</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Social Media</p>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img type="image/webp" srcset={vivian} alt="Vivian" />
-		<p class="pt-4 font-serif text-center text-4xl">Vivian Teo</p>
-		<p class="pt-4 font-semibold pb-2 text-center text-xl">Co-Director of Graphic Design</p>
-		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
+		<img type="image/webp" srcset={shahana} alt="Shahana" height="1000" width="1000"/>
+		<p class="pt-4 font-serif text-center text-4xl">Shahana Ferdous</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Bangladeshi Outreach</p>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
 	<div>
-		<img type="image/webp" srcset={laura} alt="Laura" height="1000" width="1000" />
-		<p class="pt-4 font-serif text-center text-4xl">Laura Xia</p>
-		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Chinese Outreach</p>
-		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
-	</div>
-
-	<div>
-		<img type="image/webp" srcset={jina} alt="Jina" height="1000" width="1000" />
-		<p class="pt-4 font-serif text-center text-4xl">Jina Koh</p>
-		<p class="pt-4 font-semibold pb-2 text-center text-xl">
-			Director of Internal Communication
-		</p>
-		<p class="pb-4 text-center text-xl">
-			Senior at Stuyvesant High School
-		</p>
+		<img type="image/webp" srcset={raymond} alt="Raymond" height="1000" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Raymond Lin</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Technology</p>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
 	<div>
