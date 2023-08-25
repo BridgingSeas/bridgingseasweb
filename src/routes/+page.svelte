@@ -8,7 +8,6 @@
 	import unity from '$lib/img/graphics/unity.png?w=500;700;896&webp&srcset';
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
 	import culture from '$lib/img/graphics/culture.png?w=500;700;896&webp&srcset';
-	import stats from '$lib/img/graphics/stats.png?w=2000;1000;896&webp&srcset';
 </script>
 
 
@@ -50,11 +49,7 @@
 	</div>
 </div>
 
-<div class="mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2" style="width: 100%; margin: 10; padding: 0;">
-	<div>
-		<img type="image/webp" alt="stats" srcset={stats} />
-	</div>
-</div>
+
 
 <div class="container grid place-items-center">
 	<p class="text-[50px] font-bold font-serif">Our 3 Pillars</p>
