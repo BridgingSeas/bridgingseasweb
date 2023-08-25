@@ -8,9 +8,7 @@
 	import unity from '$lib/img/graphics/unity.png?w=500;700;896&webp&srcset';
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
 	import culture from '$lib/img/graphics/culture.png?w=500;700;896&webp&srcset';
-	import chart from '$lib/img/graphics/chart.jpg?w=500;700;896&webp&srcset';
-	import pie from '$lib/img/graphics/pie.jpg?w=500;850;896&webp&srcset';
-
+	import stats from '$lib/img/graphics/stats.png?w=500;700;896&webp&srcset';
 </script>
 
 
@@ -51,6 +49,11 @@
 		</p>
 	</div>
 </div>
+
+<div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
+	<div>
+		<img type="image/webp" alt="stats" srcset={stats} />
+	</div>
 
 <div class="container grid place-items-center">
 	<p class="text-[50px] font-bold font-serif">Our 3 Pillars</p>
