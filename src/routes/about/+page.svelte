@@ -66,14 +66,14 @@
 <div class="container grid grid-cols-1 gap-x-8 xl:pb-16 xl:grid-cols-3">
 
 	<div>
-		<img type="image/webp" srcset={mai} alt="Mai" height="400" width="1000" />
+		<img type="image/webp" srcset={mai} alt="Mai" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Mai Tran</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Executive Director</p>
 		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img type="image/webp" srcset={jessica} alt="Jessica" height="1100" width="1000" />
+		<img type="image/webp" srcset={jessica} alt="Jessica" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Jessica Liu</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Executive Director</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
@@ -89,14 +89,14 @@
 	</div>
 
 	<div>
-		<img type="image/webp" srcset={jenny} alt="Jenny" height="600" width="1000" />
+		<img type="image/webp" srcset={jenny} alt="Jenny" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Jenny Tan</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Social Media</p>
 		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
 	<div>
-		<img type="image/webp" srcset={shahana} alt="Shahana" height="800" width="1000"/>
+		<img type="image/webp" srcset={shahana} alt="Shahana" height="1000" width="1000"/>
 		<p class="pt-4 font-serif text-center text-4xl">Shahana Ferdous</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Bangladeshi Outreach</p>
 		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
