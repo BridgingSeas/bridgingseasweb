@@ -54,6 +54,7 @@
 	<div>
 		<img type="image/webp" alt="stats" srcset={stats} />
 	</div>
+</div>
 
 <div class="container grid place-items-center">
 	<p class="text-[50px] font-bold font-serif">Our 3 Pillars</p>
