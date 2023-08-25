@@ -50,7 +50,7 @@
 	</div>
 </div>
 
-<div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
+<div class="mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2" style="width: 100%; margin: 10; padding: 0;">
 	<div>
 		<img type="image/webp" alt="stats" srcset={stats} />
 	</div>
