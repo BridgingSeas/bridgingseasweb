@@ -8,7 +8,7 @@
 	import unity from '$lib/img/graphics/unity.png?w=500;700;896&webp&srcset';
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
 	import culture from '$lib/img/graphics/culture.png?w=500;700;896&webp&srcset';
-	import stats from '$lib/img/graphics/stats.png?w=500;700;896&webp&srcset';
+	import stats from '$lib/img/graphics/stats.png?w=2000;1000;896&webp&srcset';
 </script>
 
 
