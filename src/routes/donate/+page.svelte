@@ -25,7 +25,7 @@
 		</p>
 		<a href="https://docs.google.com/forms/d/e/1FAIpQLSekyqAR9MnH7l_qNF2rdNjBucfvuXkMCIQlOw1Ryb81H3FzrA/viewform">
 			<div
-				class="mx-auto mt-20 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-20 sm:text-base"
+				class="mx-auto mt-9 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-9 sm:text-base"
 			>
 				Contribute
 			</div>
@@ -34,6 +34,14 @@
 
 	<div class="container">
 		<img type="image/webp" srcset={conf} alt="conf">
+		<a href="https://docs.google.com/forms/d/1pbP9Ts_StCSNktq6OtnvxblCEAp08ryjZ-GSVFS1StA/viewform?fbclid=IwAR3jmNVuDpdWpd2Jo-UgCl87A3h5NlsPOVOlMyKSa2y5kXt1jespWeCFx0g&edit_requested=true">
+			<div
+				class="mx-auto mt-30 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-40 sm:text-base"
+			>
+				Buy Stickers
+			</div>
+		</a>
 	</div>
-	
+
+
 </div>
