@@ -20,21 +20,20 @@
 			Asian diaspora. All extra funds will be donated to organizations or projects that help AAPI
 			combat hate or assist other Asian countries to recover from COVID. Each donor can vote for
 			which organization and project they’d like us to support. Additionally, the top 20 donors can
-			choose to have their name displayed on our website as a token of our appreciation.
+			choose to have their name displayed on our website as a token of our appreciation. You could 
+			also buy Bridging Seas stickers to show your support for us!
 		</p>
 		<a href="https://docs.google.com/forms/d/e/1FAIpQLSekyqAR9MnH7l_qNF2rdNjBucfvuXkMCIQlOw1Ryb81H3FzrA/viewform">
 			<div
-				class="mx-auto mt-10 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-20 sm:text-base"
+				class="mx-auto mt-20 max-w-fit rounded-md bg-[#e88073] px-8 py-2 text-xl text-sm text-[#fffffa] sm:mt-20 sm:text-base"
 			>
 				Contribute
 			</div>
 		</a>
 	</div>
+
 	<div class="container">
 		<img type="image/webp" srcset={conf} alt="conf">
 	</div>
-	
-		
-	
 	
 </div>

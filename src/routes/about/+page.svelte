@@ -8,6 +8,7 @@
 	import mai from '$lib/img/team/mai.png?w=500;300;896&webp&srcset';
 	import raymond from '$lib/img/team/raymond.png?w=500;700;896&webp&srcset';
 	import jessica from '$lib/img/team/jessica.png?w=500;800;896&webp&srcset';
+	import annie from '$lib/img/team/annie.png?w=500;700;896&webp&srcset';
 </script>
 
 <title>About Us</title>
@@ -101,8 +102,13 @@
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Bangladeshi Outreach</p>
 		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
+</div>
 
-	<div>
-	
-	</div>
+<div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
+		<div>
+			<img type="image/webp" srcset={annie} alt="Raymond" height="1000" width="1000" />
+			<p class="pt-4 font-serif text-center text-4xl">Annie Li</p>
+			<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Curriculum</p>
+			<p class="pb-4 text-center text-xl">Sophomore at Stuyvesant High School</p>
+		</div>
 </div>
