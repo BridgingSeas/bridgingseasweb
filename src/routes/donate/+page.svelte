@@ -2,7 +2,7 @@
 	// @ts-nocheck
 </script>
 <title>Donate</title>
-<div class="place-items-center bg-[#ffe2d3]  xl:grid-cols-2 px-19">
+<div class="place-items-center bg-[#ffe2d3] px-19">
 	<div class="content-center pt-20 pb-16 text-center">
 		<p class="pb-5 font-serif text-5xl sm:text-6xl">Donate</p>
 		<p class="px-10 text-xl">
