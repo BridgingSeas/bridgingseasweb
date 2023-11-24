@@ -6,7 +6,7 @@
 	import tiktok from '$lib/img/logos/socials/tiktok.png?w=500;700;896&webp&srcset';
 </script>
 
-<div class="w-full bg-[#ffc8b6] py-10 px-">
+<div class="w-full bg-[#ffc8b6] py-10">
 	<div class="container mx-auto grid grid-cols-1 gap-y-4 md:grid-cols-2">
 		<div>
 			<!-- left side / top-->
