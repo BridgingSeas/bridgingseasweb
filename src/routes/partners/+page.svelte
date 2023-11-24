@@ -7,7 +7,7 @@
 <title>Partners</title>
 <p class="pt-20 pb-20 text-center font-serif text-5xl font-bold">We're working with:</p>
 
-<div class="container mb-20 grid grid-cols-1  pt-20 xl:grid-cols-4">
+<div class="container mb-20 grid grid-cols-1 pt-20 xl:grid-cols-4">
 	<div />
 	<div class="pt-10 xl:pt-0 ">
 		<a href="https://www.miscreants.com/">
