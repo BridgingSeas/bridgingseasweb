@@ -1,6 +1,6 @@
 <script>
 	// @ts-nocheck
-	import lauren from '$lib/img/team/lauren.jpeg?w=500;700;896&webp&srcset';
+	import lauren from '$lib/img/team/lauren.jpg?w=500;700;896&webp&srcset';
 	import sharon from '$lib/img/team/sharon.png?w=500;700;896&webp&srcset';
 	import izzy from '$lib/img/team/izzy.jpeg?w=500;700;896&webp&srcset';
 	import jenny from '$lib/img/team/jenny.png?w=500;500;896&webp&srcset';
@@ -69,7 +69,7 @@
 		<img type="image/webp" srcset={mai} alt="Mai" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Mai Tran</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Executive Director</p>
-		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
@@ -83,7 +83,7 @@
 		<img type="image/webp" srcset={annie} alt="Raymond" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Annie Li</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Curriculum</p>
-		<p class="pb-4 text-center text-xl">Sophomore at Stuyvesant High School</p>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
 	</div>
 
 </div>
@@ -101,14 +101,14 @@
 		<img type="image/webp" srcset={jenny} alt="Jenny" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Jenny Tan</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Social Media</p>
-		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 
 	<div>
 		<img type="image/webp" srcset={shahana} alt="Shahana" height="1000" width="1000"/>
 		<p class="pt-4 font-serif text-center text-4xl">Shahana Ferdous</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Bangladeshi Outreach</p>
-		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
+		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
 </div>
 
