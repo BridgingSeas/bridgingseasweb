@@ -103,7 +103,7 @@
 <div class="container mb-20">
 	<div>
 		<p class="pb-10 text-center font-serif text-4xl font-bold">
-			latest on <a class="underline" href="https://www.instagram.com/bridgingseas/">@bridgingseas</a
+			Check out the latest on <a class="underline" href="https://www.instagram.com/bridgingseas/">@bridgingseas</a
 			>
 		</p>
 <!--
