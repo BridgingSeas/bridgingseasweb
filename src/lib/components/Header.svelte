@@ -1,16 +1,27 @@
+
+
 <script>
 	import Hamburger from 'svelte-hamburger';
 	import { slide } from 'svelte/transition';
+	import logo from '$lib/img/logos/bs_logo.png?';
 
 	let open = false;
 </script>
 
 <div class="sticky top-0 z-50 w-full bg-[#ffc8b6] py-4 drop-shadow-xl">
 	<div class="container mx-auto flex items-center">
+		<style>
+			.logo {
+				width: 50px;
+				height: auto;
+				margin-left: -1px;
+			}
+		</style>
 		<a href="/"
 			><img
-				src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=224,fit=crop/m2Wgwzkj3GFqQPR0/Bridging-Seas-mePe9k6belSbvxM5.png"
+				srcset={logo}
 				alt="logo"
+				class="logo" 
 			/></a
 		>
 
