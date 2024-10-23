@@ -6,8 +6,7 @@
 	import jenny from '$lib/img/team/jenny.png?w=500;500;896&webp&srcset';
 	import shahana from '$lib/img/team/shahana.png?w=500;600;896&webp&srcset';
 	import mai from '$lib/img/team/mai.png?w=500;300;896&webp&srcset';
-	import raymond from '$lib/img/team/raymond.png?w=500;700;896&webp&srcset';
-	import jessica from '$lib/img/team/jessica.png?w=500;800;896&webp&srcset';
+	import chloe from '$lib/img/team/chloe.jpg?w=500;800;896&webp&srcset';
 	import annie from '$lib/img/team/annie.png?w=500;700;896&webp&srcset';
 </script>
 
@@ -74,20 +73,29 @@
 	</div>
 
 	<div>
-		<img type="image/webp" srcset={jessica} alt="Jessica" height="1000" width="1000" />
-		<p class="pt-4 font-serif text-center text-4xl">Jessica Liu</p>
+		<img type="image/webp" srcset={chloe} alt="Chloe" height="1000" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Chloe Kan</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Executive Director</p>
 		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
 	</div>
+
+	<div>
+		<img type="image/webp" srcset={annie} alt="Raymond" height="1000" width="1000" />
+		<p class="pt-4 font-serif text-center text-4xl">Annie Li</p>
+		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Curriculum</p>
+		<p class="pb-4 text-center text-xl">Sophomore at Stuyvesant High School</p>
+	</div>
+
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
-	<div>
-		<img type="image/webp" srcset={raymond} alt="Raymond" height="1000" width="1000" />
+	<!--<div>
+	<img type="image/webp" srcset={raymond} alt="Raymond" height="1000" width="1000" />
 		<p class="pt-4 font-serif text-center text-4xl">Raymond Lin</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Technology</p>
-		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p>
-	</div>
+		<p class="pb-4 text-center text-xl">Junior at Stuyvesant High School</p> 
+	</div>-->
+
 
 	<div>
 		<img type="image/webp" srcset={jenny} alt="Jenny" height="1000" width="1000" />
@@ -105,10 +113,4 @@
 </div>
 
 <div class="container grid grid-cols-1 gap-x-8 xl:grid-cols-3 pb-20">
-		<div>
-			<img type="image/webp" srcset={annie} alt="Raymond" height="1000" width="1000" />
-			<p class="pt-4 font-serif text-center text-4xl">Annie Li</p>
-			<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Curriculum</p>
-			<p class="pb-4 text-center text-xl">Sophomore at Stuyvesant High School</p>
-		</div>
 </div>
