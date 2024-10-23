@@ -1,6 +1,6 @@
 <script>
 	// @ts-nocheck
-	import lauren from '$lib/img/team/lauren.jpg?w=500;800;896&webp&srcset';
+	import lauren from '$lib/img/team/lauren.jpg';
 	import sharon from '$lib/img/team/sharon.png?w=500;700;896&webp&srcset';
 	import izzy from '$lib/img/team/izzy.jpeg?w=500;700;896&webp&srcset';
 	import jenny from '$lib/img/team/jenny.png?w=500;500;896&webp&srcset';
