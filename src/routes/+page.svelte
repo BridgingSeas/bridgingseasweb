@@ -106,7 +106,7 @@
 			latest on <a class="underline" href="https://www.instagram.com/bridgingseas/">@bridgingseas</a
 			>
 		</p>
-
+<!--
 		<div class="grid grid-cols-1 xl:grid-cols-3 place-items-center gap-2">
 			<a href="https://www.instagram.com/p/Cqx422xOo4H/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">
 				<img width="500" height="500"  src="https://cdn.discordapp.com/attachments/981730764469182485/1109293548253220904/340503369_457922373174194_5958789526327651558_n.jpg"  alt="1"/>
@@ -119,5 +119,6 @@
 			</a>
 			
 		</div>
+		-->
 	</div>
 </div>
