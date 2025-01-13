@@ -8,6 +8,7 @@
   gtag('config', 'G-9NHVYZVMZV');
 </script> -->
 <script>
+	// @ts-nocheck
 	import Hero from '$lib/components/Hero.svelte';
 	import Card from '$lib/components/Card.svelte';
 
@@ -17,6 +18,12 @@
 	import unity from '$lib/img/graphics/unity.png?w=500;700;896&webp&srcset';
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
 	import culture from '$lib/img/graphics/culture.png?w=500;700;896&webp&srcset';
+	// import group from '$lib/img/photos/group.png';
+	// import picnic from '$lib/img/photos/picnic.png';
+
+	// import unity from '$lib/img/graphics/unity.png';
+	// import app from '$lib/img/graphics/appreciation.png';
+	// import culture from '$lib/img/graphics/culture.png';
 	import stats from '$lib/img/graphics/stats.png';
 </script>
 
