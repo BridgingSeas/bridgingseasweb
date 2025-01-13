@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"svelte-hamburger": "^1.0.1"
+		"svelte-hamburger": "^1.0.1",
+		"vit": "^0.0.1"
 	}
 }
