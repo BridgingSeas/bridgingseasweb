@@ -1,12 +1,12 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NHVYZVMZV"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-9NHVYZVMZV"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-9NHVYZVMZV');
-</script>
+</script> -->
 <script>
 	import Hero from '$lib/components/Hero.svelte';
 	import Card from '$lib/components/Card.svelte';
