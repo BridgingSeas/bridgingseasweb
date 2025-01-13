@@ -14,7 +14,7 @@
 	import izzy from '$lib/img/team/izzy.jpeg?w=500;700;896&webp&srcset';
 	import jenny from '$lib/img/team/jenny.png?w=500;500;896&webp&srcset';
 	import shahana from '$lib/img/team/shahana.png?w=500;600;896&webp&srcset';
-	import mai from '$lib/img/team/mai.png?w=500;300;896&webp&srcset';
+	import mai from '$lib/img/team/mai.jpg?w=500;300;896&webp&srcset';
 	import chloe from '$lib/img/team/chloe.jpg?w=500;800;896&webp&srcset';
 	import annie from '$lib/img/team/annie.png?w=500;700;896&webp&srcset';
 </script>
