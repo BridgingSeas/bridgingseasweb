@@ -13,7 +13,7 @@
 	import Card from '$lib/components/Card.svelte';
 
 	import group from '$lib/img/photos/group.png?w=500;700;896&webp&srcset';
-	import picnic from '$lib/img/photos/picnic.png?w=500;700;896&webp&srcset';
+	import conf from '$lib/img/photos/conf.png?w=500;700;896&webp&srcset';
 
 	import unity from '$lib/img/graphics/unity.png?w=500;700;896&webp&srcset';
 	import app from '$lib/img/graphics/appreciation.png?w=500;700;896&webp&srcset';
@@ -47,7 +47,7 @@
 <div class="container mb-20 grid grid-cols-1 gap-x-8 xl:grid-cols-2">
 	<div>
 		<!-- left / top -->
-		<img type="image/webp" alt="picnic" srcset={picnic} />
+		<img type="image/webp" alt="conf" srcset={conf} />
 	</div>
 
 	<div class="pt-10 xl:pt-0">
