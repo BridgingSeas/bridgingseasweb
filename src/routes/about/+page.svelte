@@ -132,7 +132,7 @@
 		<img type="image/webp" srcset={shahana} alt="Shahana" height="1000" width="1000"/>
 		<p class="pt-4 font-serif text-center text-4xl">Shahana Ferdous</p>
 		<p class="pt-4 font-semibold pb-2 text-center text-xl">Director of Bangladeshi Outreach</p>
-		<p class="pb-4 text-center text-xl">Senior at Stuyvesant High School</p>
+		<p class="pb-4 text-center text-xl">Stuyvesant High School</p>
 	</div>
 </div>
 
