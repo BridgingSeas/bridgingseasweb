@@ -6,7 +6,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-9NHVYZVMZV');
-</script> -->
+</script>  -->
 <script>
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
