@@ -10,6 +10,7 @@
 <script>
 	// @ts-nocheck
 	import Hero from '$lib/components/Hero.svelte';
+	import AlertBanner from '$lib/components/AlertBanner.svelte';
 	import Card from '$lib/components/Card.svelte';
 
 	import group from '$lib/img/photos/group.png?w=500;700;896&webp&srcset';
@@ -26,7 +27,7 @@
 	// import culture from '$lib/img/graphics/culture.png';
 	import stats from '$lib/img/graphics/stats.png';
 </script>
-
+<AlertBanner/>
 <Hero />
 <div class="container mb-20 grid grid-cols-1 gap-x-8 pt-20 xl:grid-cols-2">
 	<div>
